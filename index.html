@@ -9,8 +9,8 @@
     <title>TekneCultura</title>
     <meta name="description" content="Serveis per a projectes culturals per conèixer i connectar amb la seva comunitat">
     <meta name="author" content="www.elbit.cat">
-    <meta name="version" content="0.4">
-    <meta name="viewport" content="width=device-width">
+    <meta name="version" content="0.5">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
     <link rel="stylesheet" href="css/estil.css">
     <link rel="stylesheet" href="css/responsive.css">
@@ -46,23 +46,40 @@
     <!-- Carousel items -->
     <div class="carousel-inner">
       
-      <div class="active item">
-          <div class="info">
-
-          </div>
+      
+      
+      <div class="active item" id="item-1">
+         
         <img src="img/slide/slide-home-1.4.png">
+        
+        <span class="slide-anchor">
+          <a class="activo" >1</a>
+          <a data-slide="next" href="#myCarousel">2</a>
+          <a href="#myCarousel" data-slide="prev">3</a>
+        </span>
+        
        
       </div>            
                   
-      <div class="item">
+      <div class="item" id="item-2">
           
           <img src="img/slide/slide-home-2.3.png">
+          <span class="slide-anchor">
+            <a href="#myCarousel" data-slide="prev">1</a>
+            <a class="activo" href="#myCarousel">2</a>
+            <a href="#myCarousel" data-slide="next">3</a>
+          </span>
       </div>
       
-      <!-- <div class="item">
+      <div class="item" id="item-3">
           
           <img src="img/slide/slide-home-3.5.png">
-      </div> -->
+          <span class="slide-anchor">
+            <a href="#myCarousel" data-slide="next">1</a>
+            <a href="#myCarousel" data-slide="prev">2</a>
+            <a class="activo" href="#myCarousel">3</a>
+          </span>
+      </div> 
 
     </div>
     <!-- Carousel nav -->
