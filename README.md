@@ -1,2 +1,2 @@
-Teknecultura-
+Teknecultura
 =============
