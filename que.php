@@ -29,12 +29,14 @@
   <header > 
     
       <div class="logo">
-        <a href="index.html"  alt="home"><img src="img/teknelogo-beta-0.4.png"></a>
+        <a href="index.php"  alt="home"><img src="img/teknelogo-beta-0.4.png"></a>
       </div>
       
-      <nav class="menu" >
-          <a href="que.html"> Què</a>
-          <!-- <a href="com.html"> Com</a> -->
+     <nav class="menu" >
+          <a class="menu-active" href="que.php"> Què </a>
+          <a href="com.php"> Com</a>
+          <a href="qui.php"> Qui</a>
+          <a href="blog.php"> Blog...</a>
           <a href="mailto:info@teknecultura.com"> Contacte</a>
       </nav>
     
@@ -64,13 +66,7 @@
   </div>
 <!-- <script async class="speakerdeck-embed" data-id="2ccadb102d98013019c21231381d8461" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> -->
     
-   <footer class="well footer"> 
-    
-    
-     <a class="contacte-footer" href="mailto:info@teknecultura.com">Contacte</a>    
-     <a href="#top" class="puja-footer">Puja</a>
-   
-   </footer>
+<?php include 'footer.php'; ?>
 
 
 </div> <!-- fi container -->

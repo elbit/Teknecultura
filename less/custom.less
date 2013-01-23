@@ -16,11 +16,13 @@ p {line-height:1.5;}
 header { margin-top:1%; margin-bottom:2%; width: 100%; 
 	.clearfix;
 	
-	.logo { width: 50%;  float: left;}
+	.logo { width: 50%;  float:left;}
     
-    .menu{  width: 30%; float:right; 
+    
+}
+.menu{  width: 50%; float:right; 
     	
-    	a { width: 49% !important;
+    	a { width: 19% !important;
     		line-height: 20px;
     		float:left;
     		margin-left: 1%;
@@ -33,10 +35,12 @@ header { margin-top:1%; margin-bottom:2%; width: 100%;
 			-moz-transition: all 0.2s ease-in;  /* Firefox 4-15 */
 			-o-transition: all 0.2s ease-in;  /* Opera 10.5–12.00 */
 			transition: all 0.2s ease-in;  /* Firefox 16+, Opera 12.50+ */
-      	    &:hover, :focus { background:#4a96b4; text-decoration: none;}
+      	    &:hover, :focus { background:@color2; text-decoration: none;}
+
 		}
-    }		
-}
+		.menu-active {background-color: @color2;}
+
+}		
 
 .slide {  float:left; width:100%;
 
@@ -61,7 +65,7 @@ header { margin-top:1%; margin-bottom:2%; width: 100%;
 
 }
 
-.activo {background:gray!important;}
+.slide-activo {background:gray!important;}
 
 
 .cta { margin-bottom:3%;color:white;float:left; width: 99%; padding-right: 0;
@@ -90,10 +94,11 @@ header { margin-top:1%; margin-bottom:2%; width: 100%;
 
 
 //------------------------------------------Main
+.module {width:27%; float:left; margin-left:2%; min-height: 330px; padding:1%; position:relative;}
 
-.features { width: 111%; margin-left: -2%; float:left;
+.features { width: 109%; margin-left: -2%; float:left;
 
-	.module {width:27%;float:left; margin-left: 2%; min-height: 330px; padding:1%; position: relative;}
+	
 
 	h4 {  text-align:center; margin-top: 3%; padding-bottom: 3%;
 		font-size: 20px; line-height: 1.2;
@@ -135,47 +140,51 @@ article { width: 70%; float: right;}
 
 //----------------------------------------------------Footer
 
-.footer { float:left; width: 97%;
+footer { float:left; width: 97%;
 			
-		h3 { text-align: center; background: #333; padding: 1%; border-radius: 5px; color: white;margin-bottom: 20px;}
+		// h3 { text-align: center; background: #333; padding: 1%; border-radius: 5px; color: white;margin-bottom: 20px;}
 		
-		.contacte-footer {  float:left;
-							width: 45%;
-							text-align:center; 
-				    		color:white;
-				    		font-weight: bold; 
-				    		background:#2C2C2C; 
+		// .contacte-footer {  float:left;
+		// 					width: 45%;
+		// 					text-align:center; 
+		// 		    		color:white;
+		// 		    		font-weight: bold; 
+		// 		    		background:#2C2C2C; 
 
-				    		.border-radius(4px); 
-							-webkit-transition: all 0.2s ease-in;  /* Safari 3.2+, Chrome */
-							-moz-transition: all 0.2s ease-in;  /* Firefox 4-15 */
-							-o-transition: all 0.2s ease-in;  /* Opera 10.5–12.00 */
-							transition: all 0.2s ease-in;  /* Firefox 16+, Opera 12.50+ */
-				      	    &:hover, :focus { background:#4a96b4; text-decoration: none;}
+		// 		    		.border-radius(4px); 
+		// 					-webkit-transition: all 0.2s ease-in;  /* Safari 3.2+, Chrome */
+		// 					-moz-transition: all 0.2s ease-in;  /* Firefox 4-15 */
+		// 					-o-transition: all 0.2s ease-in;  /* Opera 10.5–12.00 */
+		// 					transition: all 0.2s ease-in;  /* Firefox 16+, Opera 12.50+ */
+		// 		      	    &:hover, :focus { background:#4a96b4; text-decoration: none;}
 
-      	}
+  //     	}
       	 
-      	 .puja-footer { float:right;  width: 45%;
-      	 				text-align:center; 
-			    		color:white;
-			    		font-weight: bold; 
-			    		background:#2C2C2C; 
+  //     	 .puja-footer { float:right;  width: 45%;
+  //     	 				text-align:center; 
+		// 	    		color:white;
+		// 	    		font-weight: bold; 
+		// 	    		background:#2C2C2C; 
 
-			    		.border-radius(4px); 
-						-webkit-transition: all 0.2s ease-in;  /* Safari 3.2+, Chrome */
-						-moz-transition: all 0.2s ease-in;  /* Firefox 4-15 */
-						-o-transition: all 0.2s ease-in;  /* Opera 10.5–12.00 */
-						transition: all 0.2s ease-in;  /* Firefox 16+, Opera 12.50+ */
-			      	    &:hover, :focus { background:#4a96b4; text-decoration: none;}
-		}
+		// 	    		.border-radius(4px); 
+		// 				-webkit-transition: all 0.2s ease-in;  /* Safari 3.2+, Chrome */
+		// 				-moz-transition: all 0.2s ease-in;  /* Firefox 4-15 */
+		// 				-o-transition: all 0.2s ease-in;  /* Opera 10.5–12.00 */
+		// 				transition: all 0.2s ease-in;  /* Firefox 16+, Opera 12.50+ */
+		// 	      	    &:hover, :focus { background:#4a96b4; text-decoration: none;}
+		// }
+	
 }
 
-.menu-footer { 
+.menu-footer a { 
 
- 		background: #333;  list-style:none; margin-bottom:10px; border-radius:5px;
-		color:white; text-align:center; font-weight: bold;
+ 		margin-bottom:10px; float:none;  display: block;
+		
 
 }
+.modulo-footer {width: 32%;}
+
+
 
 //------------------------------------------------------Que fem
 
