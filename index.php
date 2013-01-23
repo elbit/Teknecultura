@@ -33,7 +33,7 @@
       </div>
       
       <nav class="menu" >
-          <a  href="que.php"> Què </a>
+          <a href="que.php"> Què </a>
           <a href="com.php"> Com</a>
           <a href="qui.php"> Qui</a>
           <a href="blog.php"> Blog...</a>
@@ -103,19 +103,19 @@
   <div class="features clearfix"> <!-- fila1 -->
       
       <div class="module well">
-        <h4 class="header-feature" >Disseny d’estratègia de continguts</h4>
+        <h3 class="header-feature" >Disseny d’estratègia de continguts</h3>
         <p>El contingut, el que fem i com ho expliquem a través d’un relat multimèdia (transmedia storytelling), és el que ens connecta amb la nostra comunitat. TekneCultura t’ajuda a definir, planificar, mesurar i avaluar aquest contingut</p>
         <img src="img/icona1.png"> 
       </div>
 
       <div class="module well">
-          <h4 class="header-feature">Recull de dades i gestió d’e-mail màrqueting</h4>
+          <h3 class="header-feature">Recull de dades i gestió d’e-mail màrqueting</h3>
           <p>La qualitat de la base de dades amb la informació ordenada, revisada i integral, és clau per comunicar-te amb la teva comunitat. L’e-mail màrqueting és una eina molt poderosa per conèixer millor la teva comunitat i per a incrementar la venda d’entrades.</p>
          <img src="img/icona2.png"> 
       </div>
 
       <div class="module well">
-        <h4 class="header-feature">Gestió de xarxes</h4>
+        <h3 class="header-feature">Gestió de xarxes</h3>
         <p>A través de les xarxes estàs en contacte directe amb els usuaris del teu projecte i de la teva comunitat. El potencial de les xarxes per a la cultura és enorme. TekneCultura treballa amb les eines adequades i acumula experiència per fer créixer la comunitat i el seu <em>engagement</em> amb nosaltres.</p>
         <img src="img/xarxes-0.5.png">
       </div>
@@ -125,19 +125,19 @@
   <div class="features clearfix"> <!-- fila2 -->
     
     <div class="module well">
-      <h4 class="header-feature">Estudi de dades</h4>
+      <h3 class="header-feature">Estudi de dades</h3>
       <p>Estem davant d’una nova disciplina i d’unes noves eines que ens aporten molta informació i dades útils, però només si les convertim en coneixement després de l’anàlisi. TekneCultura identifica les estratègies i continguts que fan una millor contribució als teus objectius, en un procés de millora continua.</p>
       <img src="img/icona3.png">
     </div>
 
     <div class="module well">
-      <h4 class="header-feature">Solucions per a les teves necessitats de màrqueting</h4>
+      <h3 class="header-feature">Solucions per a les teves necessitats de màrqueting</h3>
       <p>TekneCultura dissenya l’estratègia, elabora contingut, gestiona base de dades i CRM, analitza i segmenta, gestiona la comunitat i les xarxes socials, analitza i millora webs, dissenya campanyes publicitàries digitals... Soluciona les teves necessitats de màrqueting.</p>
       <img src="img/icona4.1.png"> 
     </div>
 
     <div class="module well ">
-      <h4 class="header-feature">De forma flexible i modular</h4>
+      <h3 class="header-feature">De forma flexible i modular</h3>
       <p>TekneCultura et pot oferir un servei global o específic, tu tries. Ens adaptem a les teves necessitats de forma flexible i sense compromís.</p>
       <img src="img/icona5.png">
     </div>
@@ -145,7 +145,7 @@
   </div>
 
   <div class="well clients"> 
-    <h4>Ja comptem anb la confiança de:</h4> 
+    <h3>Ja comptem anb la confiança de:</h3> 
 
     <ul>
       <li>

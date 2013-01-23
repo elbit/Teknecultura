@@ -44,17 +44,22 @@
   
   <div class="intro">
     <h1>QUÈ FEM</h1>
-    <p>El món ha canviat i canvia a gran velocitat. La crisi accelera i dificulta la nostra capacitat d’adaptació, però el canvi més enllà de la crisi és molt més profund. La revolució digital, en tota la seva dimensió i amb tot el que implica, canvia la forma en la que vivim; en que accedim al coneixement; a la capacitat de crear; a la forma de socialitzar i relacionar-nos; als processos de gestió. Canvia, doncs, la forma amb la que les persones entren en contacte i es relacionen amb la cultura. Ha de canviar la forma en la que els gestors intentem facilitar aquest contacte i relació.
-    El màrqueting, entès com a la disciplina que engloba molt diverses tècniques que ens permetin connectar i servir millor a la nostra comunitat (el nostre mercat a la cultura), esdevé disciplina imprescindible per a la gestió cultural.</p>
-    <p>Aquesta tendència provoca canvis organitzatius i l’adopció de noves tècniques i eines de gestió, tiqueting, CRM, xarxes socials, mails... Eines que ens faciliten un munt d’informació que abans no disposàvem de la nostra comunitat i de com el que fem (el nostre contingut) els arriba. Se’ns obren un munt de nous canals per entrar en contacte i relació amb els nostres usuaris i el nostre entorn.
-    Però el màrqueting en sí mateix no és solució, és una eina. Una eina nova que requereix de temps, de recursos, de coneixement específics i que canvien constantment. Com ja sabem “potència sense control...”.</p>
-    <p>
-    <strong>Teknecultura</strong> ve a atendre aquesta necessitat de gestió de màrqueting. A ajudar a definir l’estratègia; a implementar-la; recollir dades; analitzar-les; avaluar i millorar l’estratègia de nou. Perseguint avançar en el coneixement i connexió del projecte cultural amb la comunitat que serveix (o ha de servir per necessitats de sostenibilitat o objectius).</p>
+    <h2><strong>Teknecultura</strong> contribueix a millorar el coneixement i la connexió del projecte cultural amb la comunitat que serveix.</h2>
+    
+    <p>La revolució digital <span class="important">canvia</span> la forma en que v*ivim, en que accedim al coneixe*ment, a la creació, <span class="important">canvia</span> la forma de relacionar-nos... <span class="important">Canvia</span> com les persones entren en contacte i viuen la cultura; ha de canviar com els gestors intentem facilitar aquest contacte i relació.</p>
+
+    <p>El màrqueting, entès com a la disciplina que engloba molt diverses tècniques que ens permeten connectar i servir millor a la nostra <span class="important">comunitat</span>, esdevé imprescindible per a la gestió cultural.</p>
+
+    <p>Adoptem noves tècniques i eines de gestió: tiqueting, CRM, xarxes socials, mails... <span class="important">Eines</span> que ens faciliten un munt d’informació de la que abans no disposàvem, sobre la nostra comunitat i sobre com el nostre contingut hi arriba. Aquestes noves eines i major informació requereixen de temps, de recursos i de coneixement específics.</p>
+
+    <p><strong>Teknecultura</strong> ve a atendre aquesta necessitat de <span class="important">gestió de màrqueting</span>. A ajudar a definir l’estratègia, a implementar-la, a mesurar i analitzar els resultats per després avaluar-la i millorar-la.</p>
+
+   <!--  <p><strong>Teknecultura</strong> contribueix a millorar el coneixement i la connexió del projecte cultural amb la comunitat que serveix (o vol i necessita servir).</p> -->
     
   </div>
   
   <div class="intro">
-      <h3>Amb aquesta auca en Slideshare us ho expliquem millor:</h3>
+      <h2>Amb aquesta auca en Slideshare us ho expliquem millor:</h2>
   </div>
   
   
