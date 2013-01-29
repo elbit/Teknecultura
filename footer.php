@@ -1,5 +1,5 @@
 <footer class="well"> 
-    <ul class="modulo-footer" itemscope itemtype="http://data-vocabulary.org/Organization"> 
+    <ul class="modulo-footer address" itemscope itemtype="http://data-vocabulary.org/Organization"> 
         <li itemprop="brand"><a href="http://teknecultura.com" itemprop="url">teknecultura.com</a></li>
         <li itemprop="email">info@teknecultura.com</li>
         <ul itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
@@ -12,7 +12,7 @@
         <li itemprop="tel">93 985 32 42</li>
     </ul>
     
-    <nav class="modulo-footer menu menu-footer" >
+    <nav class="menu modulo-footer  menu-footer" >
         <a  href="que.html"> Què </a>
         <a href="com.html"> Com</a>
         <a href="qui.html"> Qui</a>

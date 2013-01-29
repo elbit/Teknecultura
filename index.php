@@ -10,7 +10,7 @@
     <meta name="description" content="Serveis per a projectes culturals per conèixer i connectar amb la seva comunitat">
     <meta name="author" content="www.elbit.cat">
     <meta name="version" content="0.5">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="css/estil.css">
     <link rel="stylesheet" href="css/responsive.css">

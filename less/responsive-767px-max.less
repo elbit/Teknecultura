@@ -8,7 +8,7 @@
 
   header{
   
-    .logo { width:70%; float: left; margin-bottom: 2%;}
+    .logo { width:70%; float: left; margin-bottom: 1%;}
     .menu{ width: 30%; float: right;
       a { width:49% !important;}
     }
@@ -25,7 +25,7 @@
 
     }
 
-    .cta {  margin-bottom:3%;color:white; width: 93%;
+  .cta {  margin-bottom:3%;color:white; width: 93%;
 
         h2, input, .btn { float:left; width:32%; text-align:center; }
         
@@ -128,7 +128,7 @@
 
   header{
   
-  .logo { width: 100%; float: left; margin-bottom:5%;}
+  .logo { width: 100%; float: left; margin-bottom:1%;}
   
   .menu{ width: 100%;
       a { width:49% !important; margin-bottom: 2%;}
@@ -136,28 +136,45 @@
   
   }
 
+  .carousel-control { 
+          top: 10%;
+          width: 25px;
+          height: 25px; 
+          font-size: 2.8125em;
+          font-weight: 120;
+          line-height: 16px;
+  }
+  
+  .slide{
+      .slide-anchor { margin-left: 45%; line-height: 1.5;}
+      .slide-anchor a { background: silver; text-indent: -999999px;
+                  width:15px;
+                  height:15px;
+      }
+  }
+  
   .features { width:100%; margin-left:-2%;
 
-    .module {width:98%; float:left; margin-left: 2%; min-height: 400px; padding:1%; position: relative;}
+    .module {width:98%; float:left; margin-left: 2%; min-height: 360px; padding:1%; position: relative;}
      img {max-width: 70%;  left: 15%; bottom: 5%; position: absolute;}
 
   }
 
-  .cta { margin-bottom:3%;color:white; padding-bottom: 4%; width: 95%;
+  .cta { margin-bottom:3%; color:white; padding-bottom:4%; width:95%;
 
-    h2, input, .btn { float:left; width: 95%; text-align: center; }
+    h2, input, .btn { float:left; width:95%; text-align:center; }
     
-    .btn { margin-top: 5px;}
+    .btn {margin-top:5px;}
 
-    h2 { float:left; font-size: 20px; }
-    input { width:92%;    }
+    h2 { float:left;}
+    input { width:92%; margin-top: 0.3em;}
 
   }
   
   
 
-  .clients {  width: 90%;
-            h4{ text-align: center; font-size: 20px;}
+  .clients {  width: 87%;
+            h4 {text-align:center;}
 
             li { width: 100% !important; text-align: center; margin-left: -5%; }
             img { margin-bottom:7%; max-height:10% !important;}
@@ -171,9 +188,13 @@
 
   }
 
-  footer { width: 90%;}
+  footer { width: 87%;
+
+        .address { font-size: 0.8 em;}
+  }
+
   
-  .hidden-phone      { display: none !important; }
+  .hidden-phone { display: none !important; }
  
 
   // Update checkboxes for iOS
@@ -187,7 +208,15 @@
     position: static;
   }
 
+  //Que
+  .intro {
+
+  float:left;
+  margin-top:2%;
+  p {padding: 0 ; }
+  }
+
 }
 
-//D*
+
 

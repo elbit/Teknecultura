@@ -131,7 +131,7 @@ textarea {
 body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-size: 95%;
   line-height: 1.2;
   color: #333333;
   background-color: #ffffff;
@@ -327,11 +327,11 @@ a:hover {
 p {
   margin: 0 0 0.6;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-size: 95%;
   line-height: 1.2;
 }
 p small {
-  font-size: 98%;
+  font-size: 93%;
   color: #999999;
 }
 h1,
@@ -357,21 +357,21 @@ h6 small {
 }
 h1 {
   font-size: 1.875em;
-  line-height: 2.4;
+  line-height: 1.68;
 }
 h1 small {
   font-size: 1.125em;
 }
 h2 {
   font-size: 1.5em;
-  line-height: 2.4;
+  line-height: 1.44;
 }
 h2 small {
   font-size: 1.125em;
 }
 h3 {
   font-size: 1.125em;
-  line-height: 1.7999999999999998;
+  line-height: 1.32;
 }
 h3 small {
   font-size: 0.875em;
@@ -521,7 +521,7 @@ code,
 pre {
   padding: 0 3px 2px;
   font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-  font-size: 99%;
+  font-size: 94%;
   color: #333333;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -537,7 +537,7 @@ pre {
   display: block;
   padding: 0.09999999999999998;
   margin: 0 0 0.6;
-  font-size: 92.5%;
+  font-size: 87.875%;
   line-height: 1.2;
   word-break: break-all;
   word-wrap: break-word;
@@ -576,7 +576,7 @@ legend {
   width: 100%;
   padding: 0;
   margin-bottom: 1.7999999999999998;
-  font-size: 150%;
+  font-size: 142.5%;
   line-height: 2.4;
   color: #333333;
   border: 0;
@@ -591,7 +591,7 @@ input,
 button,
 select,
 textarea {
-  font-size: 100%;
+  font-size: 95%;
   font-weight: normal;
   line-height: 1.2;
 }
@@ -627,7 +627,7 @@ input[type="color"],
   height: 1.2;
   padding: 4px;
   margin-bottom: 9px;
-  font-size: 100%;
+  font-size: 95%;
   line-height: 1.2;
   color: #555555;
 }
@@ -2064,7 +2064,7 @@ button.close {
   *zoom: 1;
   padding: 4px 10px 4px;
   margin-bottom: 0;
-  font-size: 100%;
+  font-size: 95%;
   line-height: 1.2;
   *line-height: 20px;
   color: #333333;
@@ -2155,7 +2155,7 @@ button.close {
 }
 .btn-large {
   padding: 9px 14px;
-  font-size: 102%;
+  font-size: 97%;
   line-height: normal;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -2166,7 +2166,7 @@ button.close {
 }
 .btn-small {
   padding: 5px 9px;
-  font-size: 98%;
+  font-size: 93%;
   line-height: -0.8px;
 }
 .btn-small [class^="icon-"] {
@@ -2174,7 +2174,7 @@ button.close {
 }
 .btn-mini {
   padding: 2px 6px;
-  font-size: 98%;
+  font-size: 93%;
   line-height: -2.8px;
 }
 .btn-primary,
@@ -3732,7 +3732,7 @@ a.thumbnail:hover {
 }
 .label,
 .badge {
-  font-size: 84.6%;
+  font-size: 80.37%;
   font-weight: bold;
   line-height: 14px;
   color: #ffffff;
@@ -4086,24 +4086,6 @@ a.badge:hover {
   opacity: 0.5;
   filter: alpha(opacity=50);
 }
-@media (min-width: 768px) and (max-width: 1199px) {
-  .carousel-control {
-    width: 30px;
-    height: 30px;
-    font-size: 50px;
-    font-weight: 100;
-    line-height: 20px;
-  }
-}
-@media (max-width: 767px) {
-  .carousel-control {
-    width: 30px;
-    height: 30px;
-    font-size: 50px;
-    font-weight: 100;
-    line-height: 20px;
-  }
-}
 .carousel-control.right {
   left: auto;
   right: 15px;
@@ -4165,7 +4147,6 @@ a.badge:hover {
 }
 * {
   -webkit-font-smoothing: antialiased;
-  font-size: 16px;
 }
 h1 {
   color: #4999c9;
@@ -4173,7 +4154,7 @@ h1 {
 }
 h2 {
   color: silver;
-  margin-bottom: 2%;
+  margin-bottom: 0%;
 }
 .important {
   color: #4999c9;
@@ -4202,7 +4183,7 @@ header .logo {
   float: right;
 }
 .menu a {
-  width: 19% !important;
+  width: 19%;
   line-height: 1.4;
   float: left;
   margin-left: 1%;
@@ -4237,6 +4218,7 @@ header .logo {
 .slide {
   float: left;
   width: 100%;
+  margin-bottom: 1%;
 }
 .slide .carousel-control.left {
   left: 0;
@@ -4275,9 +4257,7 @@ header .logo {
   float: left;
   width: 32%;
   margin-right: 1%;
-}
-.cta .btn {
-  margin-top: 5px;
+  margin-top: 0.5%;
 }
 .intro {
   float: left;
@@ -4361,6 +4341,9 @@ article {
 footer {
   float: left;
   width: 97%;
+}
+footer li {
+  list-style: none;
 }
 .menu-footer a {
   margin-bottom: 10px;
