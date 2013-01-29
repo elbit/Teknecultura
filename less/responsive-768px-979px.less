@@ -18,7 +18,7 @@
 
 @media (min-width: 48em) and (max-width: 74.9375em) { 
 
-	.container {width: 95%; background:yellow;}
+	.container {width: 95%;border:solid 2px yellow;}
 
 	.features {width: 105%;
 
@@ -39,6 +39,14 @@
 		    input { width:31%; }
 
     }
+
+    // Show
+  .visible-tablet    { display: inherit !important; }
+  // Hide
+  .hidden-tablet     { display: none !important; }
+  // Hide everything else
+  .hidden-desktop    { display: inherit !important; }
+  .visible-desktop   { display: none !important ; }
 
 }
 

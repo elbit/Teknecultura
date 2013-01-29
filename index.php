@@ -37,7 +37,7 @@
           <a href="com.php"> Com</a>
           <a href="qui.php"> Qui</a>
           <a href="blog.php"> Blog...</a>
-          <a href="mailto:info@teknecultura.com"> Contacte</a>
+          <a class="hidden-phone" href="mailto:info@teknecultura.com" > Contacte</a>
       </nav>
     
   </header>

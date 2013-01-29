@@ -4,7 +4,7 @@
 
 @media (max-width: 47.9375) {
 
-  .container {width: 95%;}
+  .container {width: 95%; border:solid 2px blue;}
 
   header{
   
@@ -79,8 +79,8 @@
   // GRID & CONTAINERS
   // -----------------
   // Remove width from containers
-  .container {
-    width: 100%;
+  .container { 
+    width: 100%; 
   }
    .module { width:100%; float:left; min-height:320px; padding:1%; position:relative;}
   
@@ -109,7 +109,12 @@
     display: inline-block; // redeclare so they don't wrap to new lines
     width: auto;
   }
-
+  .visible-phone     { display: inherit !important; } // Use inherit to restore previous behavior
+  // Hide
+  .hidden-phone      { display: none !important; }
+  // Hide everything else
+  .hidden-desktop    { display: inherit !important; }
+  .visible-desktop   { display: none !important; }
 }
 
 
@@ -119,7 +124,7 @@
 @media (max-width: 30em) {
 
 
-  .container { width: 95%; background:red;}
+  .container { width: 95%; border:solid 2px pink;}
 
   header{
   
@@ -166,8 +171,10 @@
 
   }
 
-  .footer { width: 90%;}
+  footer { width: 90%;}
   
+  .hidden-phone      { display: none !important; }
+ 
 
   // Update checkboxes for iOS
   input[type="checkbox"],
@@ -182,7 +189,5 @@
 
 }
 
-
-
- //D*
+//D*
 
