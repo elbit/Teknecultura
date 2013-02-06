@@ -10,11 +10,11 @@
     <meta name="description" content="Serveis per a projectes culturals per conèixer i connectar amb la seva comunitat">
     <meta name="author" content="www.elbit.cat">
     <meta name="version" content="0.4">
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="css/estil.css">
     <link rel="stylesheet" href="css/responsive.css">
-    <!-- <link rel="stylesheet" href="css/type.css" > -->
+    
     
     <script src="js/vendor/modernizr-2.6.1.min.js"></script>
 </head>
@@ -36,27 +36,30 @@
           <a class="menu-active" href="que.php"> Què </a>
           <a href="com.php"> Com</a>
           <a href="qui.php"> Qui</a>
-          <a href="blog.php"> Blog...</a>
+          <a href="http://localhost:8888/wp%20test%20themes%20/"> Blog...</a>
           <a class="hidden-phone" href="mailto:info@teknecultura.com"> Contacte</a>
       </nav>
     
   </header>
   
-  <div class="intro">
+  <article>
+    
     <h1>QUÈ FEM</h1>
     <h2><strong>Teknecultura</strong> contribueix a millorar el coneixement i la connexió del projecte cultural amb la comunitat que serveix.</h2>
-    
-    <p>La revolució digital <span class="important">canvia</span> la forma en que v*ivim, en que accedim al coneixe*ment, a la creació, <span class="important">canvia</span> la forma de relacionar-nos... <span class="important">Canvia</span> com les persones entren en contacte i viuen la cultura; ha de canviar com els gestors intentem facilitar aquest contacte i relació.</p>
+      <section>
+      <p>La revolució digital <span class="important">canvia</span> la forma en que v*ivim, en que accedim al coneixe*ment, a la creació, <span class="important">canvia</span> la forma de relacionar-nos... <span class="important">Canvia</span> com les persones entren en contacte i viuen la cultura; ha de canviar com els gestors intentem facilitar aquest contacte i relació.</p>
 
-    <p>El màrqueting, entès com a la disciplina que engloba molt diverses tècniques que ens permeten connectar i servir millor a la nostra <span class="important">comunitat</span>, esdevé imprescindible per a la gestió cultural.</p>
+      <p>El màrqueting, entès com a la disciplina que engloba molt diverses tècniques que ens permeten connectar i servir millor a la nostra <span class="important">comunitat</span>, esdevé imprescindible per a la gestió cultural.</p>
 
-    <p>Adoptem noves tècniques i eines de gestió: tiqueting, CRM, xarxes socials, mails... <span class="important">Eines</span> que ens faciliten un munt d’informació de la que abans no disposàvem, sobre la nostra comunitat i sobre com el nostre contingut hi arriba. Aquestes noves eines i major informació requereixen de temps, de recursos i de coneixement específics.</p>
+      <p>Adoptem noves tècniques i eines de gestió: tiqueting, CRM, xarxes socials, mails... <span class="important">Eines</span> que ens faciliten un munt d’informació de la que abans no disposàvem, sobre la nostra comunitat i sobre com el nostre contingut hi arriba. Aquestes noves eines i major informació requereixen de temps, de recursos i de coneixement específics.</p>
 
-    <p><strong>Teknecultura</strong> ve a atendre aquesta necessitat de <span class="important">gestió de màrqueting</span>. A ajudar a definir l’estratègia, a implementar-la, a mesurar i analitzar els resultats per després avaluar-la i millorar-la.</p>
+      <p><strong>Teknecultura</strong> ve a atendre aquesta necessitat de <span class="important">gestió de màrqueting</span>. A ajudar a definir l’estratègia, a implementar-la, a mesurar i analitzar els resultats per després avaluar-la i millorar-la.</p>
+      
+    </section>
 
    <!--  <p><strong>Teknecultura</strong> contribueix a millorar el coneixement i la connexió del projecte cultural amb la comunitat que serveix (o vol i necessita servir).</p> -->
     
-  </div>
+  </article>
   
   <div class="intro">
       <h2>Amb aquesta auca en Slideshare us ho expliquem millor:</h2>
@@ -80,9 +83,6 @@
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
-    <script src="js/bootstrap-transition.js"></script>
-    <script src="js/bootstrap-carousel.js"></script>
-
     
     <script type="text/javascript">
 

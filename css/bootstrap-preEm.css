@@ -131,7 +131,7 @@ textarea {
 body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 95%;
+  font-size: 100%;
   line-height: 1.2;
   color: #333333;
   background-color: #ffffff;
@@ -327,11 +327,11 @@ a:hover {
 p {
   margin: 0 0 0.6;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 95%;
-  line-height: 1.2;
+  font-size: 100%;
+  line-height: 1.25;
 }
 p small {
-  font-size: 93%;
+  font-size: 98%;
   color: #999999;
 }
 h1,
@@ -357,21 +357,21 @@ h6 small {
 }
 h1 {
   font-size: 1.875em;
-  line-height: 1.68;
+  line-height: 1.4;
 }
 h1 small {
   font-size: 1.125em;
 }
 h2 {
   font-size: 1.5em;
-  line-height: 1.44;
+  line-height: 1.3;
 }
 h2 small {
   font-size: 1.125em;
 }
 h3 {
-  font-size: 1.125em;
-  line-height: 1.32;
+  font-size: 1.3em;
+  line-height: 1.2;
 }
 h3 small {
   font-size: 0.875em;
@@ -379,10 +379,10 @@ h3 small {
 h4,
 h5,
 h6 {
-  line-height: 1.2;
+  line-height: 1.1;
 }
 h4 {
-  font-size: 0.875em;
+  font-size: 1em;
 }
 h4 small {
   font-size: 0.75em;
@@ -470,8 +470,8 @@ abbr.initialism {
   text-transform: uppercase;
 }
 blockquote {
-  padding: 0 0 0 15px;
-  margin: 0 0 1.2;
+  padding: 0 0 0 1em;
+  margin: 0 0;
   border-left: 5px solid #eeeeee;
 }
 blockquote p {
@@ -521,7 +521,7 @@ code,
 pre {
   padding: 0 3px 2px;
   font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-  font-size: 94%;
+  font-size: 99%;
   color: #333333;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -537,7 +537,7 @@ pre {
   display: block;
   padding: 0.09999999999999998;
   margin: 0 0 0.6;
-  font-size: 87.875%;
+  font-size: 92.5%;
   line-height: 1.2;
   word-break: break-all;
   word-wrap: break-word;
@@ -576,7 +576,7 @@ legend {
   width: 100%;
   padding: 0;
   margin-bottom: 1.7999999999999998;
-  font-size: 142.5%;
+  font-size: 150%;
   line-height: 2.4;
   color: #333333;
   border: 0;
@@ -591,7 +591,7 @@ input,
 button,
 select,
 textarea {
-  font-size: 95%;
+  font-size: 100%;
   font-weight: normal;
   line-height: 1.2;
 }
@@ -627,7 +627,7 @@ input[type="color"],
   height: 1.2;
   padding: 4px;
   margin-bottom: 9px;
-  font-size: 95%;
+  font-size: 100%;
   line-height: 1.2;
   color: #555555;
 }
@@ -2064,7 +2064,7 @@ button.close {
   *zoom: 1;
   padding: 4px 10px 4px;
   margin-bottom: 0;
-  font-size: 95%;
+  font-size: 100%;
   line-height: 1.2;
   *line-height: 20px;
   color: #333333;
@@ -2155,7 +2155,7 @@ button.close {
 }
 .btn-large {
   padding: 9px 14px;
-  font-size: 97%;
+  font-size: 102%;
   line-height: normal;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -2166,7 +2166,7 @@ button.close {
 }
 .btn-small {
   padding: 5px 9px;
-  font-size: 93%;
+  font-size: 98%;
   line-height: -0.8px;
 }
 .btn-small [class^="icon-"] {
@@ -2174,7 +2174,7 @@ button.close {
 }
 .btn-mini {
   padding: 2px 6px;
-  font-size: 93%;
+  font-size: 98%;
   line-height: -2.8px;
 }
 .btn-primary,
@@ -3732,7 +3732,7 @@ a.thumbnail:hover {
 }
 .label,
 .badge {
-  font-size: 80.37%;
+  font-size: 84.6%;
   font-weight: bold;
   line-height: 14px;
   color: #ffffff;
@@ -4150,15 +4150,25 @@ a.badge:hover {
 }
 h1 {
   color: #4999c9;
-  margin-bottom: 2%;
 }
 h2 {
   color: silver;
-  margin-bottom: 0%;
+}
+h4 {
+  margin-top: 3%;
+}
+li {
+  margin-bottom: 1%;
 }
 .important {
   color: #4999c9;
   font-weight: bold;
+}
+.bold {
+  font-weight: bold;
+}
+.unstyled-list {
+  list-style: none;
 }
 header {
   margin-top: 1%;
@@ -4177,6 +4187,7 @@ header:after {
 header .logo {
   width: 50%;
   float: left;
+  margin-bottom: 3%;
 }
 .menu {
   width: 50%;
@@ -4219,6 +4230,7 @@ header .logo {
   float: left;
   width: 100%;
   margin-bottom: 1%;
+  margin-top: -2em;
 }
 .slide .carousel-control.left {
   left: 0;
@@ -4259,13 +4271,6 @@ header .logo {
   margin-right: 1%;
   margin-top: 0.5%;
 }
-.intro {
-  float: left;
-  margin-top: 2%;
-}
-.intro p {
-  padding: 0  10% 0 15% ;
-}
 .slideshare {
   margin: 2% 0;
   float: left;
@@ -4280,7 +4285,7 @@ header .logo {
   width: 27%;
   float: left;
   margin-left: 2%;
-  min-height: 330px;
+  min-height: 340px;
   padding: 1%;
   position: relative;
 }
@@ -4335,8 +4340,18 @@ header .logo {
   margin-top: 0;
 }
 article {
+  margin-bottom: 5%;
+}
+section {
   width: 70%;
-  float: right;
+  margin-left: 25%;
+  margin-bottom: 3%;
+}
+.module-qui {
+  width: 18%;
+  float: left;
+  margin-right: 3%;
+  min-height: 420px;
 }
 footer {
   float: left;
@@ -4344,16 +4359,29 @@ footer {
 }
 footer li {
   list-style: none;
+  font-size: 0.9em;
+}
+footer img {
+  max-width: 70%;
 }
 .menu-footer a {
   margin-bottom: 10px;
   float: none;
   display: block;
-  width: 100%;
+  width: 80%;
 }
 .modulo-footer {
-  width: 49%;
+  width: 32%;
   float: left;
+}
+.xarxes a {
+  padding: 10%;
+}
+.to-top {
+  background-color: #4999c9 !important;
+}
+.to-top:hover {
+  background-color: black !important;
 }
 .slideshare {
   width: 100%;

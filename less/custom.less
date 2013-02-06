@@ -6,18 +6,29 @@
 
 * {-webkit-font-smoothing:antialiased;}
 
-h1 {color:@color2; margin-bottom:2%;}
+h1 {color:@color2;}
 
-h2 {color:silver; margin-bottom:0%;}
+h2 {color:silver;}
+
+h4 { margin-top:3%;}
+
+li { margin-bottom:1%;}
+
 
 .important {color:@color2; font-weight: bold;}
+.bold { font-weight:bold;}
+
+// TOOLS
+
+.unstyled-list { list-style: none;}
+
 
 //--------------------------------------------------Header
 
 header { margin-top:1%; margin-bottom:2%; width: 100%; 
 	.clearfix;
 	
-	.logo { width: 50%;  float:left;}
+	.logo { width: 50%;  float:left; margin-bottom: 3%;}
     
     
 }
@@ -43,7 +54,7 @@ header { margin-top:1%; margin-bottom:2%; width: 100%;
 
 }		
 
-.slide {float:left; width:100%; margin-bottom: 1%;
+.slide {float:left; width:100%; margin-bottom:1%; margin-top: -2em;
 
 		
 
@@ -71,16 +82,6 @@ header { margin-top:1%; margin-bottom:2%; width: 100%;
 	
 }
 
-//que
-
-.intro {
-
-	float:left;
-	margin-top:2%;
-	p {padding: 0  10% 0 15% ;}
-
-
-}
 
 .slideshare { margin: 2% 0; float:left;
 
@@ -92,7 +93,7 @@ header { margin-top:1%; margin-bottom:2%; width: 100%;
 
 
 //------------------------------------------Main
-.module {width:27%; float:left; margin-left:2%; min-height: 330px; padding:1%; position:relative;}
+.module {width:27%; float:left; margin-left:2%; min-height: 340px; padding:1%; position:relative;}
 
 .features { width: 109%; margin-left: -2%; float:left;
 
@@ -134,21 +135,36 @@ header { margin-top:1%; margin-bottom:2%; width: 100%;
 
 //com
 
-article { width: 70%; float: right;}
+article { margin-bottom: 5%;}
+section { width: 70%; margin-left: 25%; margin-bottom: 3%;}
+
+//qui
+
+.module-qui  {
+
+	width: 18%; float: left; margin-right: 3%; min-height: 420px;
+}
 
 //----------------------------------------------------Footer
 
 footer { float:left; width: 97%;
-			li {list-style:none;}
+		li {list-style:none; font-size: 0.9em;}
+		img {max-width: 70%;}
 }
 
 .menu-footer  { 
 
- 	a {margin-bottom:10px; float:none; display:block; width:100%;}
+ 	a {margin-bottom:10px; float:none; display:block; width:80%;}
 		
 
 }
-.modulo-footer {width:49%; float:left;}
+.modulo-footer {width:32%; float:left;}
+.xarxes a { padding:10%;}
+
+.to-top { background-color:@color2 !important;
+
+		&:hover{ background-color: black !important;}
+}
 
 
 
