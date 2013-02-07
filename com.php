@@ -36,20 +36,50 @@
   </header>
   
   <article>
-    <header>
-      <hgroup>
-        <h1>TekneCultura:</h1>
-        <h2>una “solució” de màrqueting</h2>
-      </hgroup>
-    </header>
-    <section>
-      <p>TekneCultura és la solució que permet disposar d’un departament especialitzat en màrqueting cultural, però amb costos flexibles i adaptables a les necessitats, sense incrementar o sobrecarregar estructura actual, amb especialistes i les eines més innovadores.</p>
-      <p>TekneCultura complementa les noves eines i obté el màxim resultat i retorn de la inversió dels nous sistemes de gestió de la venda d’entrades, o en les xarxes socials </p>
-      <p>TekneCultura acompanya en la definició de l’estratègia de màrqueting relacional i en la seva implementació amb la metodologia del Pla de Continguts i Mètriques PCM. TekneCultura pot assumir una responsabilitat global o només funcions específiques dins del pla de màrqueting: gestió de contingut, email màrqueting, analítica web, analítica CRM i segmentació, gestió de la presència a xarxes socials i comunity management</p>
-      <p>TekneCultura converteix dades en coneixement, integra les diferents fonts d’informació en una base de dades centralitzada, les analitza, elabora informes àgils, contribueix a la creació i gestió de coneixement sobre els públics dels seus clients.</p>
-      <p>TekneCultura treballa amb plena integració organitzativa amb el seu client, amb un gestor de compte com a contacte en tot moment, que coordina un equip multidisciplinari ad hoc que reuneix coneixements i capacitat analítica de màrqueting, així com expertesa tecnològica i creativitat.</p>
-    </section>
-   </article>
+      <h1>TekneCultura: </h1>
+      <h2>és una solució de màrqueting</h2>
+      
+      <section>
+        <ul class="unstyled-list">
+          <li>
+            <h2 class="important-second">TekneCultura és la solució que permet disposar d’un departament especialitzat en màrqueting cultural,</h2> 
+            però amb costos flexibles i adaptables a les necessitats, sense incrementar o sobrecarregar estructura actual, amb especialistes i les eines més innovadores.
+          </li>
+          
+          <li>
+            <h2 class="important-second">TekneCultura complementa les noves eines i obté el màxim resultat i retorn de la inversió </h2> 
+            dels nous sistemes de gestió de la venda d’entrades, o en les xarxes socials.
+          </li>
+          
+          <li>
+            <h2 class="important-second">TekneCultura acompanya en la definició de l’estratègia de màrqueting relacional</h2>i en la seva implementació amb la metodologia del Pla de Continguts i Mètriques PCM. 
+          </li>
+          <li>
+            <h2 class="important-second">TekneCultura pot assumir una responsabilitat global o només funcions específiques dins del pla de màrqueting:</h2>gestió de contingut, email màrqueting, analítica web, analítica CRM i segmentació, gestió de la presència a xarxes socials i comunity management
+          </li>
+          
+          <li>
+            <h2 class="important-second">TekneCultura converteix dades en coneixement,</h2> 
+            integra les diferents fonts d’informació, sistemes de tiqueting, d’email màrqueting, CRM, anlítica web... en una base de dades centralitzada, les analitza, elabora informes àgils, contribueix a la creació i gestió de coneixement sobre els usuaris i la comunitat.
+          </li>
+          <li>
+            <h2 class="important-second">TekneCultura treballa amb plena integració organitzativa</h2>
+            amb el seu client, amb un gestor de compte com a contacte en tot moment, que coordina un equip multidisciplinari ad hoc que reuneix coneixements i capacitat analítica de màrqueting, així com expertesa tecnològica i creativitat.
+          </li>
+          <li>
+            <h2 class="important-second">TekneCultura planifica, implementa, analitza i avalua en un procés de millora continua </h2>
+            que garanteix millorar el coneixement i connexió dels projectes culturals amb la seva comunitat.
+          </li>
+        
+        </ul>
+        
+      </section>
+    
+    
+    
+  </article>
+  
+  
 
   <article>
     <header>
@@ -60,7 +90,7 @@
       <section>
         <h3 class="important" >Característiques del servei</h3>
         <ul>
-          <li>atenció rebuda per un equip organitzat ad hoc per al client dirigit per un responsable del client per part de Marketiketing</li>
+          <li>atenció rebuda per un equip organitzat ad hoc per al client dirigit per un responsable del client per part de Teknecultura</li>
           <li>en contacte permanent per detectar i atendre necessitats de màrqueting operatiu</li>
           <li>disponibilitat de recursos directa i total, idèntica a una integració orgànica del servei</li>
           <li>cost flexible i modular, de manera que es pot adaptar a necessitats i disponibilitats </li>
@@ -141,49 +171,7 @@
       
   </article>
   
-  <article>
-      <h1>TekneCultura:</h1>
-      <h2>resultats de la implantació del màrqueting relacional</h2>
-      
-      <section>
-        <ul class="unstyled-list">
-          <li>
-            <h2>planificació de l’estratègia de màrqueting relacional de l’organització o projecte.</h2> 
-            Anàlisi de comunitat i situació inicial, definició de comunitat necessària  i de l’estratègia per anar d’una a l’altre
-          </li>
-          
-          <li>
-            <h2>planificació del contingut global, integrada i mesurada</h2> 
-            difusió del relat del projecte en múltiples formats i canals (transmetia storytelling), mesurant resultats i en procés de millora continua, amb la metodologia del Pla de Continguts i Mètriques PCM.
-          </li>
-          
-          <li>
-            <h2>una correcta utilització de les eines d’email màrqueting</h2>amb les eines i tendències més innovadores, aprofitant l’experiència acumulada en el desenvolupament de l’e-mail màrqueting de múltiples projectes, amb objectius i avaluacions predefinides al posicionament
-          </li>
-          
-          <li>
-            <h2>gestió i anàlisi de la presència les xarxes socials</h2> 
-            anàlisi i segmentació de la comunitat, gestió de contingut, anàlisi eficàcia del contingut, gestió i dinamització de la conversa
-          </li>
-          <li>
-            <h2>centralització i anàlisi de totes les dades generades </h2>
-            a curt termini obtindrem més i millors dades, de manera més ordenada. Analitzarem aquestes dades per convertir-les en informació i coneixement que ens permetin la segmentació o la millora del Pla de Continguts; tant de les accions de difusió en el món físic, com a la web, als e-mails o a les xarxes socials
-          </li>
-          <li>
-            <h2>coneixement i connexió amb la comunitat</h2>
-            una correcta estratègia de contingut, el seu desenvolupament, mesura avaluació i millora continua ens permetrà fer créixer el conjunt de ciutadans i ciutadanes per a les quals el nostre projecte serà referencial. La comunitat que connecti amb el nostre projecte ens guiarà i ens facilitarà la sostenibilitat a llarg termini.
-          </li>
-          <li>
-            <h2>maximització del rendiment (ROI) de les eines de màrqueting </h2>
-            el màrqueting com a orientació als usuaris i com a estratègies i eines per a un òptim encaix del nostre projecte en el seu mercat, ens pot ser de gran ajuda, però es fa necessari destinar un temps i uns recursos a la seva gestió per obtenir els retorns que potencialment pot produir
-          </li>
-        </ul>
-        
-      </section>
-    
-    
-    
-  </article>
+  
 
 
 
