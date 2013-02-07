@@ -123,7 +123,18 @@
       <blockquote itemprop="description">Entre codis, html5, css, js, cms, mysql</blockquote>
     </div>
     
-    
+    <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
+      
+      <img src="img/pots-ser-tu.png" itemprop="image" />
+      <ul class="unstyled-list" >
+        <li itemprop="name" class="bold"></li>
+        <li itemprop="jobTitle"></li>
+        <li itemprop="email"></li>
+        <li><a href="http://elbit.cat" itemprop="url"></a></li>
+      </ul>
+      
+      <blockquote itemprop="description"></blockquote>
+    </div>
     
         
 <?php include 'footer.php'; ?>
