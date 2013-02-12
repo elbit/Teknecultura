@@ -25,14 +25,14 @@
      <header > 
         
           <div class="logo">
-            <a href="index.php"  alt="home"><img src="img/teknelogo-beta-0.4.png"></a>
+            <a href="index.php"  alt="home"><img src="img/teknelogo-beta-0.6.png"></a>
           </div>
           
          <nav class="menu" >
               <a href="que.php"> Què </a>
               <a href="com.php"> Com</a>
               <a class="menu-active" href="qui.php"> Qui</a>
-              <a href="blog.php"> Blog...</a>
+              <a href="blog.php"> Bloc...</a>
               <a href="mailto:info@teknecultura.com"> Contacte</a>
           </nav>
         
@@ -44,9 +44,9 @@
       <ul class="unstyled-list">
         <li itemprop="name" class="bold">Ferran López</li>
 
-        <li itemprop="jobTitle">Direccio</li>
+        <li itemprop="jobTitle">Direcció</li>
         
-        <li itemprop="email">info@teknecultura.com</li>
+        <li itemprop="email"><a href="mailto:info@teknecultura.com">info@teknecultura.com</a></li>
         
         <li><a href="https://twitter.com/ferran_lopez" itemprop="url">@ferran_lopez</a></li>
         <li><a href="http://es.linkedin.com/in/ferranlopezarbiol" itemprop="url">linkedin</a></li>
@@ -64,10 +64,9 @@
 
         <li itemprop="jobTitle">Coordinació i mètriques</li>
         
-        <li itemprop="email"> carles@teknecultura.com </li>
+        <li itemprop="email"><a href="mailto:carles@teknecultura.com"> carles@teknecultura.com</a></li>
         
-        <li><a href="https://twitter.com/ferran_lopez" itemprop="url">@ferran_lopez</a></li>
-        <li><a href="http://es.linkedin.com/in/ferranlopezarbiol" itemprop="url">linkedin</a></li>
+        
       </ul>
       
       <blockquote itemprop="description">L’home sistemàtic i matinador, fanàtic de l’ordre i la planificació</blockquote>
@@ -84,10 +83,9 @@
 
         <li itemprop="jobTitle">Suport a continguts </li>
         
-        <li itemprop="email">info@teknecultura.com</li>
+        <li itemprop="email"><a href="mailto:pep@teknecultura.com">pep@teknecultura.com</a></li>
         
-        <li><a href="https://twitter.com/ferran_lopez" itemprop="url">@ferran_lopez</a>
-        <li><a href="http://es.linkedin.com/in/ferranlopezarbiol" itemprop="url">linkedin</a>
+        
       </ul>
       
       <blockquote itemprop="description">Coneix totes les músiques i li agrada tota la cultura</blockquote>
@@ -101,11 +99,9 @@
 
         <li itemprop="jobTitle">Disseny</li>
         
-        <li itemprop="email">disseny@teknecultura.com</li>
+        <li itemprop="email"><a href="mailto:disseny@teknecultura.com">disseny@teknecultura.com</a></li>
         
-        <li><a href="https://twitter.com/ferran_lopez" itemprop="url">@ferran_lopez</a>
-        <li><a href="http://es.linkedin.com/in/ferranlopezarbiol" itemprop="url">linkedin</a>
-      </ul>
+       </ul> 
       
       <blockquote itemprop="description">La garantia del bon gust en tot l’equip</blockquote>
     </div>
@@ -116,7 +112,7 @@
       <ul class="unstyled-list" >
         <li itemprop="name" class="bold">elbit.cat</li>
         <li itemprop="jobTitle"> TIC i front-end developer</li>
-        <li itemprop="email">tic@teknecultura.com</li>
+        <li itemprop="email"><a href="mailto:tic@teknecultura.com">tic@teknecultura.com</a></li>
         <li><a href="http://elbit.cat" itemprop="url">www.elbit.cat</a></li>
       </ul>
       

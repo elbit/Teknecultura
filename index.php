@@ -29,7 +29,7 @@
   <header> 
     
       <div class="logo">
-        <a href="#"  alt="home"><img src="img/teknelogo-beta-0.4.png"></a>
+        <a href="#"  alt="home"><img src="img/teknelogo-beta-0.6.png"></a>
       </div>
       
       <nav class="menu" >
@@ -37,7 +37,7 @@
           <a href="com.php"> Com</a>
           <a href="qui.php"> Qui</a>
           <a href="http://localhost:8888/wp%20test%20themes%20/"> Bloc...</a>
-          <a class="hidden-phone" href="mailto:info@teknecultura.com" > Contacte</a>
+          <a class="hidden-phone" href="contacte.php" > Contacte</a>
       </nav>
     
   </header>
@@ -65,7 +65,7 @@
                   
       <div class="item" id="item-2">
           
-          <img src="img/slide/slide-home-2.3.png">
+          <img src="img/slide/slide-home-2.4.png">
           <span class="slide-anchor">
             <a href="#myCarousel" data-slide="prev">1</a>
             <a class="slide-activo" href="#myCarousel">2</a>

@@ -23,7 +23,7 @@
 
  <header > 
     <div class="logo">
-        <a href="index.php"  alt="home"><img src="img/teknelogo-beta-0.4.png"></a>
+        <a href="index.php"  alt="home"><img src="img/teknelogo-beta-0.6.png"></a>
     </div>
       
     <nav class="menu" >
@@ -42,32 +42,32 @@
       <section>
         <ul class="unstyled-list">
           <li>
-            <h2 class="important-second">TekneCultura és la solució que permet disposar d’un departament especialitzat en màrqueting cultural,</h2> 
+            <span class="important-second ">TekneCultura és la solució que permet disposar d’un departament especialitzat en màrqueting cultural,</span> 
             però amb costos flexibles i adaptables a les necessitats, sense incrementar o sobrecarregar estructura actual, amb especialistes i les eines més innovadores.
           </li>
           
           <li>
-            <h2 class="important-second">TekneCultura complementa les noves eines i obté el màxim resultat i retorn de la inversió </h2> 
+            <span class="important-second ">TekneCultura complementa les noves eines i obté el màxim resultat i retorn de la inversió </span> 
             dels nous sistemes de gestió de la venda d’entrades, o en les xarxes socials.
           </li>
           
           <li>
-            <h2 class="important-second">TekneCultura acompanya en la definició de l’estratègia de màrqueting relacional</h2>i en la seva implementació amb la metodologia del Pla de Continguts i Mètriques PCM. 
+            <span class="important-second ">TekneCultura acompanya en la definició de l’estratègia de màrqueting relacional</span> i en la seva implementació amb la metodologia del Pla de Continguts i Mètriques PCM. 
           </li>
           <li>
-            <h2 class="important-second">TekneCultura pot assumir una responsabilitat global o només funcions específiques dins del pla de màrqueting:</h2>gestió de contingut, email màrqueting, analítica web, analítica CRM i segmentació, gestió de la presència a xarxes socials i comunity management
+            <span class="important-second ">TekneCultura pot assumir una responsabilitat global o només funcions específiques dins del pla de màrqueting:</span> gestió de contingut, email màrqueting, analítica web, analítica CRM i segmentació, gestió de la presència a xarxes socials i comunity management.
           </li>
           
           <li>
-            <h2 class="important-second">TekneCultura converteix dades en coneixement,</h2> 
+            <span class="important-second ">TekneCultura converteix dades en coneixement,</span> 
             integra les diferents fonts d’informació, sistemes de tiqueting, d’email màrqueting, CRM, anlítica web... en una base de dades centralitzada, les analitza, elabora informes àgils, contribueix a la creació i gestió de coneixement sobre els usuaris i la comunitat.
           </li>
           <li>
-            <h2 class="important-second">TekneCultura treballa amb plena integració organitzativa</h2>
+            <span class="important-second ">TekneCultura treballa amb plena integració organitzativa</span>
             amb el seu client, amb un gestor de compte com a contacte en tot moment, que coordina un equip multidisciplinari ad hoc que reuneix coneixements i capacitat analítica de màrqueting, així com expertesa tecnològica i creativitat.
           </li>
           <li>
-            <h2 class="important-second">TekneCultura planifica, implementa, analitza i avalua en un procés de millora continua </h2>
+            <span class="important-second ">TekneCultura planifica, implementa, analitza i avalua en un procés de millora continua </span>
             que garanteix millorar el coneixement i connexió dels projectes culturals amb la seva comunitat.
           </li>
         

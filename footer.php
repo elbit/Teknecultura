@@ -1,6 +1,6 @@
   <footer class="well"> 
       <ul class="module-footer address" itemscope itemtype="http://data-vocabulary.org/Organization">    <li></li>
-          <li itemprop="brand"><a href="http://teknecultura.com" itemprop="url"><img src="img/teknelogo-beta-0.4-small.png"></a></li>
+          <li itemprop="brand"><a href="http://teknecultura.com" itemprop="url"><img src="img/teknelogo-beta-0.6.png" alt="home"></a></li>
           <li itemprop="email">info@teknecultura.com</li>
           <ul itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
             <li itemprop="street-address">Vidal i Ribas 25</li>
@@ -12,18 +12,7 @@
           <li itemprop="tel" href="939853242">93 985 32 42</li>
       </ul>
       
-      <div class=" module-footer">
-        <nav class="menu menu-footer">
-            <a  href="que.php"> Què </a>
-            <a href="com.php"> Com</a>
-            <a href="qui.php"> Qui</a>
-            <a href="blog.php"> Bloc...</a>
-            <a href="mailto:info@teknecultura.com"> Contacte</a>
-            <a class="to-top" href="#top">&#11014; Puja &#11014;</a>
-        </nav>
-      </div>
-      
-      <div class="module-footer xarxes">
+      <div class=" module-footer ">
       
         <div class="navbar-inner cta cta-footer">
 
@@ -32,10 +21,30 @@
               <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="el teu e-mail" required>
               <input type="submit" value="Subscriu-te" name="Subscriu-te" id="mc-embedded-subscribe" class="btn btn-info btn-block">
             </form>
-       </div>
-        <!--  <a><img src="img/twitter-icon.png"></a> 
-        <a><img src="img/email-icon-small.png"></a> -->
-        <!-- <a><img src="img/facebook-logo.png"></a>  -->
+        </div>
+        <nav class="menu menu-footer" role="menu">
+            <span class="half-width float-left">
+              <a  href="que.php"> Què </a>
+              <a href="com.php"> Com</a>
+              <a href="qui.php"> Qui</a>
+            </span>
+            <span class="half-width float-left">
+              <a href="blog.php"> Bloc...</a>
+              <a href="contacte.php"> Contacte</a>
+              <a class="to-top" href="#top">&#11014; Puja &#11014;</a>
+            </span>
+        </nav>
+        
+      </div>
+      
+      <div class="module-footer xarxes">
+      
+        
+        <a class="twitter-timeline"  height="350" href="https://twitter.com/teknecultura" data-widget-id="301003450811039744">Tuits de @teknecultura</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+
       </div>
   </footer>
   

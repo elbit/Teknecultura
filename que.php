@@ -29,14 +29,14 @@
   <header > 
     
       <div class="logo">
-        <a href="index.php"  alt="home"><img src="img/teknelogo-beta-0.4.png"></a>
+        <a href="index.php"  alt="home"><img src="img/teknelogo-beta-0.6.png"></a>
       </div>
       
      <nav class="menu" >
           <a class="menu-active" href="que.php"> Què </a>
           <a href="com.php"> Com</a>
           <a href="qui.php"> Qui</a>
-          <a href="http://localhost:8888/wp%20test%20themes%20/"> Blog...</a>
+          <a href="http://localhost:8888/wp%20test%20themes%20/"> Bloc...</a>
           <a class="hidden-phone" href="mailto:info@teknecultura.com"> Contacte</a>
       </nav>
     
@@ -44,7 +44,7 @@
   
   <article>
     
-    <h1>QUÈ FEM</h1>
+    <h1>Què fem</h1>
     <h2><strong>Teknecultura</strong> contribueix a millorar el coneixement i la connexió del projecte cultural amb la comunitat que serveix.</h2>
       <section>
       <p>La revolució digital <span class="important">canvia</span> la forma en que v*ivim, en que accedim al coneixe*ment, a la creació, <span class="important">canvia</span> la forma de relacionar-nos... <span class="important">Canvia</span> com les persones entren en contacte i viuen la cultura; ha de canviar com els gestors intentem facilitar aquest contacte i relació.</p>
@@ -60,10 +60,7 @@
    <!--  <p><strong>Teknecultura</strong> contribueix a millorar el coneixement i la connexió del projecte cultural amb la comunitat que serveix (o vol i necessita servir).</p> -->
     
   </article>
-  
-  <div class="intro">
-      <h2>Amb aquesta auca en Slideshare us ho expliquem millor:</h2>
-  </div>
+ 
   
   
   <div class="slideshare"> 
