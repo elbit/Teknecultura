@@ -1,18 +1,26 @@
-  <footer class="well"> 
-      <ul class="module-footer address" itemscope itemtype="http://data-vocabulary.org/Organization">    <li></li>
-          <li itemprop="brand"><a href="http://teknecultura.com" itemprop="url"><img src="img/teknelogo-beta-0.6.png" alt="home"></a></li>
-          <li itemprop="email">info@teknecultura.com</li>
-          <ul itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
-            <li itemprop="street-address">Vidal i Ribas 25</li>
-            <li itemprop="locality">Sant Feliu de Llobregat</li>
-            <li itemprop="postal-code">08980</li> 
-            <li itemprop="region">Barcelona</li>
-            <li itemprop="country-name" class="hidden">Spain</li>
-          </ul>
-          <li itemprop="tel" href="939853242">93 985 32 42</li>
-      </ul>
+  <footer> 
+    <div class="well module-footer">
+        <ul class=" address " itemscope itemtype="http://data-vocabulary.org/Organization">
+              <li itemprop="brand">
+                <a href="http://teknecultura.com" itemprop="url">
+                  <img src="img/teknelogo-beta-0.6.png" alt="home">
+                </a>
+              </li>
+              <br/>
+              <li itemprop="email"><a href="mailto:info@teknecultura.com">info@teknecultura.com</a></li>
+              <ul itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
+                <li itemprop="street-address">Vidal i Ribas 25</li>
+                <li itemprop="locality">Sant Feliu de Llobregat</li>
+                <li itemprop="postal-code">08980</li> 
+                <li itemprop="region">Barcelona</li>
+                <li itemprop="country-name" class="hidden">Spain</li>
+              </ul>
+              <li itemprop="tel" href="939853242">93 985 32 42</li>
+        </ul>
+      </div>
       
-      <div class=" module-footer ">
+      <div class=" module-footer  well">
+              <img src="img/mailing3.png">
       
         <div class="navbar-inner cta cta-footer">
 
@@ -22,22 +30,11 @@
               <input type="submit" value="Subscriu-te" name="Subscriu-te" id="mc-embedded-subscribe" class="btn btn-info btn-block">
             </form>
         </div>
-        <nav class="menu menu-footer" role="menu">
-            <span class="half-width float-left">
-              <a  href="que.php"> Què </a>
-              <a href="com.php"> Com</a>
-              <a href="qui.php"> Qui</a>
-            </span>
-            <span class="half-width float-left">
-              <a href="blog.php"> Bloc...</a>
-              <a href="contacte.php"> Contacte</a>
-              <a class="to-top" href="#top">&#11014; Puja &#11014;</a>
-            </span>
-        </nav>
+        
         
       </div>
       
-      <div class="module-footer xarxes">
+      <div class="module-footer well xarxes no-margin-right">
       
         
         <a class="twitter-timeline"  height="350" href="https://twitter.com/teknecultura" data-widget-id="301003450811039744">Tuits de @teknecultura</a>
@@ -46,6 +43,23 @@
 
 
       </div>
+    <div>
+    
+    <nav class="menu menu-footer well" role="menu">
+            <!-- <span class="half-width float-left"> -->
+              <a  href="que.php"> Què </a>
+              <a href="com.php"> Com</a>
+              <a href="qui.php"> Qui</a>
+          <!--   </span> -->
+            <!-- <span class="half-width float-left"> -->
+              <a href="blog.php"> Bloc...</a>
+              <a href="contacte.php"> Contacte</a>
+              <a class="to-top no-margin-right" href="#top">&#11014; Puja &#11014;</a>
+           <!--  </span> -->
+        </nav>
+      
+      
+    </div>
   </footer>
   
   

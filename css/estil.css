@@ -587,6 +587,7 @@ li{margin-bottom:1%;}
 .normal-line-height{line-height:1;}
 .half-width{width:50%;}
 .float-left{float:left;}
+.no-margin-right{margin-right:0;}
 header{margin-top:1%;margin-bottom:2%;width:100%;*zoom:1;}header:before,header:after{display:table;content:"";}
 header:after{clear:both;}
 header .logo{width:50%;float:left;margin-bottom:3%;}
@@ -612,13 +613,14 @@ header .logo{width:50%;float:left;margin-bottom:3%;}
 article{margin-bottom:5%;}
 section{width:70%;margin-left:25%;margin-bottom:3%;}
 .module-qui{width:18%;float:left;margin-right:3%;min-height:420px;}
-footer{float:left;width:100%;max-height:300px;padding:1% 0 !important;}footer li{list-style:none;font-size:0.9em;}
-footer img{max-width:70%;}
-.module-footer{width:33.333%;float:left;margin-top:0;margin-bottom:0;}
-.menu-footer{width:100%;margin-top:10%;}.menu-footer a{margin-bottom:10px;float:none;display:block;width:90%;font-size:0.9em;}
-.xarxes a{padding:10%;}
-.to-top{background-color:gray !important;}.to-top:hover{background-color:black !important;}
-.cta-footer{padding:1% 5% 2% 5%;width:85%;}.cta-footer h2,.cta-footer .btn{float:left;width:100%;margin-bottom:1%;text-align:center;font-size:0.9em;}
+footer{float:left;width:104%;padding:0;}footer li{list-style:none;font-size:1em;text-align:center;margin-top:2%;}
+footer img{max-width:100%;}
+.module-footer{width:28.5%;float:left;margin-top:0;min-height:360px;margin-right:2%;padding:1%;}
+.address{padding-top:10%;}
+.menu-footer{width:94.5%;float:left;padding:1% 0 1% 1%;}.menu-footer a{float:left;font-size:0.9em;width:15.5%;}
+.to-top{background-color:gray !important;}.to-top:hover{background-color:#333 !important;}
+.cta-footer{padding:1% 5% 2% 5%;width:90%;}.cta-footer h2{float:left;width:100%;margin-bottom:5%;text-align:center;font-size:1.5em;margin-top:3%;}
+.cta-footer .btn{float:left;width:100%;margin-bottom:1%;text-align:center;}
 .cta-footer input{width:97%;margin-bottom:2%;}
-.twitter-timeline{height:230px;border-bottom:2px solid gray;width:97%;border-radius:3px;}
+.twitter-timeline{height:350px;border-bottom:2px solid gray;width:97%;border-radius:3px;}
 .slideshare{width:100%;}
