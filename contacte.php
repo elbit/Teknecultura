@@ -43,18 +43,40 @@
     
   </header>
   
-  <img src="img/contacte0.5.png">
+  <!-- <img src="img/contacte0.5.png"> -->
+  <h1>Contacte</h1>
+  <div id="wufoo-q7x3a1" class="well">
+      Fill out my <a href="http://pcbadds.wufoo.com/forms/q7x3a1">online form</a>.
+  </div>
   
-  <div class=" well module-footer ">
-      <iframe  frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=Carrer+Vidal+i+Ribas,+Sant+Feliu+de+Llobregat+25&amp;aq=&amp;sll=41.381241,2.046932&amp;sspn=0.010691,0.022016&amp;ie=UTF8&amp;hq=&amp;hnear=Carrer+Vidal+i+Ribas,+25,+08980+Sant+Feliu+de+Llobregat,+Barcelona&amp;t=m&amp;ll=41.381252,2.04689&amp;spn=0.01932,0.025749&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.es/maps?f=q&amp;source=embed&amp;hl=es&amp;geocode=&amp;q=Carrer+Vidal+i+Ribas,+Sant+Feliu+de+Llobregat+25&amp;aq=&amp;sll=41.381241,2.046932&amp;sspn=0.010691,0.022016&amp;ie=UTF8&amp;hq=&amp;hnear=Carrer+Vidal+i+Ribas,+25,+08980+Sant+Feliu+de+Llobregat,+Barcelona&amp;t=m&amp;ll=41.381252,2.04689&amp;spn=0.01932,0.025749&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Veure mapa més gran</a></small>
+  
+  <div class="">
+      <iframe  class="g-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=Carrer+Vidal+i+Ribas,+Sant+Feliu+de+Llobregat+25&amp;aq=&amp;sll=41.381241,2.046932&amp;sspn=0.010691,0.022016&amp;ie=UTF8&amp;hq=&amp;hnear=Carrer+Vidal+i+Ribas,+25,+08980+Sant+Feliu+de+Llobregat,+Barcelona&amp;t=m&amp;ll=41.381252,2.04689&amp;spn=0.01932,0.025749&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.es/maps?f=q&amp;source=embed&amp;hl=es&amp;geocode=&amp;q=Carrer+Vidal+i+Ribas,+Sant+Feliu+de+Llobregat+25&amp;aq=&amp;sll=41.381241,2.046932&amp;sspn=0.010691,0.022016&amp;ie=UTF8&amp;hq=&amp;hnear=Carrer+Vidal+i+Ribas,+25,+08980+Sant+Feliu+de+Llobregat,+Barcelona&amp;t=m&amp;ll=41.381252,2.04689&amp;spn=0.01932,0.025749&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Veure mapa més gran</a></small>
 </div>
     
-    
+  
+  
     
     
     
   <?php include 'footer.php'; ?>
 
+  <script type="text/javascript">var q7x3a1;(function(d, t) {
+      var s = d.createElement(t), options = {
+      'userName':'pcbadds', 
+      'formHash':'q7x3a1', 
+      'autoResize':true,
+      'height':'726',
+      
+      'async':true,
+      'header':'hide'};
+      s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+      s.onload = s.onreadystatechange = function() {
+      var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+      try { q7x3a1 = new WufooForm();q7x3a1.initialize(options);q7x3a1.display(); } catch (e) {}};
+      var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+      })(document, 'script');
+  </script>
 
 </body>
 </html>
