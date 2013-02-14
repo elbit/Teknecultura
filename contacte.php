@@ -29,7 +29,7 @@
   <header> 
     
       <div class="logo">
-        <a href="#"  alt="home"><img src="img/teknelogo-beta-0.6.png"></a>
+        <a href="index.php"  alt="home"><img src="img/teknelogo-beta-0.6.png"></a>
       </div>
       
       
@@ -37,17 +37,17 @@
           <a href="que.php"> Què </a>
           <a href="com.php"> Com</a>
           <a href="qui.php"> Qui</a>
-          <a href="http://localhost:8888/wp%20test%20themes%20/"> Bloc...</a>
+          <a href="/bloc"> Bloc...</a>
           <a class="menu-active hidden-phone" href="contacte.php"> Contacte</a>
       </nav>
     
   </header>
   
-  <img src="img/contacte-0.3.png">
+  <img src="img/contacte0.5.png">
   
-  <div>
-      <iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=Carrer+Vidal+i+Ribas,+Sant+Feliu+de+Llobregat+25&amp;aq=&amp;sll=41.381241,2.046932&amp;sspn=0.010691,0.022016&amp;ie=UTF8&amp;hq=&amp;hnear=Carrer+Vidal+i+Ribas,+25,+08980+Sant+Feliu+de+Llobregat,+Barcelona&amp;t=m&amp;ll=41.381252,2.04689&amp;spn=0.01932,0.025749&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.es/maps?f=q&amp;source=embed&amp;hl=es&amp;geocode=&amp;q=Carrer+Vidal+i+Ribas,+Sant+Feliu+de+Llobregat+25&amp;aq=&amp;sll=41.381241,2.046932&amp;sspn=0.010691,0.022016&amp;ie=UTF8&amp;hq=&amp;hnear=Carrer+Vidal+i+Ribas,+25,+08980+Sant+Feliu+de+Llobregat,+Barcelona&amp;t=m&amp;ll=41.381252,2.04689&amp;spn=0.01932,0.025749&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Veure mapa més gran</a></small>
-      </div>
+  <div class=" well module-footer ">
+      <iframe  frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=Carrer+Vidal+i+Ribas,+Sant+Feliu+de+Llobregat+25&amp;aq=&amp;sll=41.381241,2.046932&amp;sspn=0.010691,0.022016&amp;ie=UTF8&amp;hq=&amp;hnear=Carrer+Vidal+i+Ribas,+25,+08980+Sant+Feliu+de+Llobregat,+Barcelona&amp;t=m&amp;ll=41.381252,2.04689&amp;spn=0.01932,0.025749&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.es/maps?f=q&amp;source=embed&amp;hl=es&amp;geocode=&amp;q=Carrer+Vidal+i+Ribas,+Sant+Feliu+de+Llobregat+25&amp;aq=&amp;sll=41.381241,2.046932&amp;sspn=0.010691,0.022016&amp;ie=UTF8&amp;hq=&amp;hnear=Carrer+Vidal+i+Ribas,+25,+08980+Sant+Feliu+de+Llobregat,+Barcelona&amp;t=m&amp;ll=41.381252,2.04689&amp;spn=0.01932,0.025749&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Veure mapa més gran</a></small>
+</div>
     
     
     

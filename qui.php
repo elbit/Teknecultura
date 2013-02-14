@@ -32,12 +32,12 @@
               <a href="que.php"> Què </a>
               <a href="com.php"> Com</a>
               <a class="menu-active" href="qui.php"> Qui</a>
-              <a href="blog.php"> Bloc...</a>
-              <a href="mailto:info@teknecultura.com"> Contacte</a>
+              <a href="/bloc"> Bloc...</a>
+              <a class="hidden-phone" href="contacte.php"> Contacte</a>
           </nav>
         
       </header>
-      
+  <div class="container-qui">  
     <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
       
       <img src="img/ferran.jpg" itemprop="image" />
@@ -48,8 +48,8 @@
         
         <li itemprop="email"><a href="mailto:info@teknecultura.com">info@teknecultura.com</a></li>
         
-        <li><a href="https://twitter.com/ferran_lopez" itemprop="url">@ferran_lopez</a></li>
-        <li><a href="http://es.linkedin.com/in/ferranlopezarbiol" itemprop="url">linkedin</a></li>
+        <li><a href="https://twitter.com/ferran_lopez" itemprop="url">@ferran_lopez</a> | <a href="http://es.linkedin.com/in/ferranlopezarbiol" itemprop="url">linkedin</a></li>
+        
       </ul>
       
       <blockquote itemprop="description">La revolució digital ho canvia tot, també la forma de gestionar la cultura</blockquote>
@@ -77,7 +77,7 @@
       
     <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
       
-      <img src="img/pep.jpg" itemprop="image" />
+      <img src="img/pep0.2.jpg" itemprop="image" />
       <ul class="unstyled-list">
         <li itemprop="name" class="bold">Josep Bergadà</li>
 
@@ -119,7 +119,7 @@
       <blockquote itemprop="description">Entre codis, html5, css, js, cms, mysql</blockquote>
     </div>
     
-    <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
+    <!-- <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
       
       <img src="img/pots-ser-tu.png" itemprop="image" />
       <ul class="unstyled-list" >
@@ -130,9 +130,9 @@
       </ul>
       
       <blockquote itemprop="description"></blockquote>
-    </div>
+    </div> -->
     
-        
+  </div>
 <?php include 'footer.php'; ?>
 
 </div>

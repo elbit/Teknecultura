@@ -2,21 +2,29 @@
 // LANDSCAPE PHONE TO SMALL DESKTOP & PORTRAIT TABLET  767
 // --------------------------------------------------
 
-@media (max-width: 47.9375) {
+@media (min-width: 30.1em) and(max-width: 47.9em) {
 
-  .container {width: 95%; border:solid 2px blue;}
+  .container {width: 95%; }
 
   header{
   
-    .logo { width:70%; float: left; margin-bottom: 1%;}
-    .menu{ width: 30%; float: right;
-      a { width:49% !important;}
-    }
-    
+    .logo { width:60%; float: left; margin-bottom: 2%; margin-top: 1%;}
 
+    .menu{ width: 100%; float: left; margin-bottom: 1%; z-index: 1;
+      a { width:19% !important;}
+    }
   }
 
-  .features {width: 100%;
+  .cta { margin-bottom:3%;  width: 100%;
+
+    h2 { float:left; width:30%; margin-right:2%; margin-left: 2%;display: inline; margin-bottom: 0;}
+    input { width: 30%; float:left; margin-right: 2%; margin-top: 0;}
+    .btn  { width: 30%; float:right; margin-right:1.5%; }
+
+  }
+  
+  .cta-lema  { font-size: 1em ;}
+  .features {width: 100%; display: inline; float: none;
 
         .module { min-height:420px; width: 45%;}
         img {max-width: 75%; margin-top: 4%; left: 10%; bottom: 5%; position: absolute;}
@@ -25,40 +33,46 @@
 
     }
 
-  .cta {  margin-bottom:3%;color:white; width: 93%;
+ section { width: 100%;}
 
-        h2, input, .btn { float:left; width:32%; text-align:center; }
-        
-        .btn { margin-top: 5px;}
-
-        h2 { float:left; font-size: 14px; }
-        input { width:31%; }
-
-    }
-  
-  .intro {
-
-  float:left;
-  margin-top: 2%;
-  p {font-size: 15px; padding: 0; }
-
-
-}
 
   
-  .slideshare {
+ .slideshare {
 
        iframe {height: 450px !important;} 
-     }
+  }
+
+  .container-qui { width: 105%;}
+  .module-qui  { padding: 2%;
+
+        width: 42%; float: left; margin-left: 2%; min-height: 440px;
+        img { max-width: 80%; margin-left: 9%;}
+  }
   
   .mobile-no {display:none;}
 
+  footer { 
 
-  // Padding to set content in a bit
-  body {
-    padding-left: 20px;
-    padding-right: 20px;
+      .module-footer {width:45%; float:left; margin-top:0; min-height:360px; margin-right:2%; padding: 1%;}
+
+      .address { font-size: 0.8 em;}
+
+      .cta-footer { width: 90%;
+
+        h2 { width: 100%;}
+        input {width: 95%;}
+        .btn { width: 100%;}
+
+      }
+
+      .menu-footer { font-size: 0.8em;}
+      .xarxes { width:94%;}
   }
+
+
+
+
+ 
   
   
 // TYPOGRAPHY
@@ -79,39 +93,37 @@
   // GRID & CONTAINERS
   // -----------------
   // Remove width from containers
-  .container { 
-    width: 100%; 
-  }
-   .module { width:100%; float:left; min-height:320px; padding:1%; position:relative;}
+ 
+  // .module { width:100%; float:left; min-height:320px; padding:1%; position:relative;}
   
-  .thumbnails {
-    margin-left: 0;
-  }
+  // .thumbnails {
+  //   margin-left: 0;
+  // }
  
 
-  // FORM FIELDS
-  // -----------
-  // Make span* classes full width
-  .input-large,
-  .input-xlarge,
-  .input-xxlarge,
-  input[class*="span"],
-  select[class*="span"],
-  textarea[class*="span"],
-  .uneditable-input {
-    .input-block-level();
-  }
-  // But don't let it screw up prepend/append inputs
-  .input-prepend input,
-  .input-append input,
-  .input-prepend input[class*="span"],
-  .input-append input[class*="span"] {
-    display: inline-block; // redeclare so they don't wrap to new lines
-    width: auto;
-  }
+  // // FORM FIELDS
+  // // -----------
+  // // Make span* classes full width
+  // .input-large,
+  // .input-xlarge,
+  // .input-xxlarge,
+  // input[class*="span"],
+  // select[class*="span"],
+  // textarea[class*="span"],
+  // .uneditable-input {
+  //   .input-block-level();
+  // }
+  // // But don't let it screw up prepend/append inputs
+  // .input-prepend input,
+  // .input-append input,
+  // .input-prepend input[class*="span"],
+  // .input-append input[class*="span"] {
+  //   display: inline-block; // redeclare so they don't wrap to new lines
+  //   width: auto;
+  // }
   .visible-phone     { display: inherit !important; } // Use inherit to restore previous behavior
   // Hide
-  .hidden-phone      { display: none !important; }
+  .hidden-phone      { display: inherit !important; }
   // Hide everything else
   .hidden-desktop    { display: inherit !important; }
   .visible-desktop   { display: none !important; }
@@ -123,8 +135,11 @@
 
 @media (max-width: 30em) {
 
+  * { font-size: 0.95em;}
+  p { margin-top: 0;}
 
-  .container { width: 95%; border:solid 2px pink;}
+  .features .header-feature { padding-bottom:0;}
+  .container { width: 95%;}
 
   header{
   
@@ -157,14 +172,14 @@
   
   .features { width:100%; margin-left:-2%;
 
-    .module {width:98%; float:left; margin-left: 2%; min-height: 400px; padding:1%; position: relative;}
-     img {max-width: 70%;  left: 15%; bottom: 5%; position: absolute;}
+    .module {width:98%; float:left; margin-left: 2%; min-height: 335px; padding:1%; position: relative;}
+     img {max-width: 50%;  left: 25%; bottom: 5%; position: absolute;}
 
   }
 
-  .cta { margin-bottom:3%; color:white; padding-bottom:4%; width:95%;
+  .cta { margin-bottom:3%; color:white; padding-bottom:4%; width:100%;
 
-    h2, input, .btn { float:left; width:95%; text-align:center; }
+    h2, input, .btn { float:left; width:95%; text-align:center; margin-left: 2.5%; }
     
     .btn {margin-top:5px;}
 
@@ -175,10 +190,10 @@
   
   
 
-  .clients {  width: 87%;
+  .clients {  width: 97%;
             h4 {text-align:center;}
 
-            li { width: 100% !important; text-align: center; margin-left: -5%; }
+            li { width: 100% !important; text-align: center; margin-left: -4%; }
             img { margin-bottom:7%; max-height:10% !important;}
 
   }
@@ -190,9 +205,22 @@
 
   }
 
-  footer { width: 87%;
+  .container-qui { width: 100%;}
+  .module-qui  { padding: 2%;
 
-        .address { font-size: 0.8 em;}
+        width: 95%; float: left; margin-left: 2%; min-height: 300px;
+        img { max-width: 60%; margin-left: 19%;}
+  }
+
+  footer { 
+
+      .module-footer {width:94%; float:left; margin-top:0; min-height:360px; margin-right:2%; padding: 1%;}
+
+      .address { font-size: 0.8 em;}
+
+      .cta-footer { width: 98%; padding: 1%;}
+
+      
   }
 
   

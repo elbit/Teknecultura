@@ -36,18 +36,31 @@
           <a class="menu-active" href="que.php"> Què </a>
           <a href="com.php"> Com</a>
           <a href="qui.php"> Qui</a>
-          <a href="http://localhost:8888/wp%20test%20themes%20/"> Bloc...</a>
-          <a class="hidden-phone" href="mailto:info@teknecultura.com"> Contacte</a>
+          <a href="/bloc"> Bloc...</a>
+          <a class="hidden-phone" href="contacte.php"> Contacte</a>
       </nav>
     
   </header>
   
-  <article>
+  <article class="que-fem">
     
     <h1>Què fem</h1>
+    
+      <div class="slideshare"> 
+       <iframe src="http://www.slideshare.net/slideshow/embed_code/15701004" width="600" height="500"  frameborder="0" marginwidth="0" marginheight="0" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> 
+       <div>
+        <strong> <a href="http://www.slideshare.net/teknecultura/auca-teknecultura" title="Auca Teknecultura" target="_blank">Auca Teknecultura</a> </strong> from <strong><a href="http://www.slideshare.net/teknecultura" target="_blank">TekneCultura</a></strong> 
+       </div>
+  </div>
+    
+    <!--<script async class="speakerdeck-embed" data-id="2ccadb102d98013019c21231381d8461" data-ratio="2.2" src="//speakerdeck.com/assets/embed.js"></script>-->
+
+    
+  </article>
+  <article>
     <h2><strong>Teknecultura</strong> contribueix a millorar el coneixement i la connexió del projecte cultural amb la comunitat que serveix.</h2>
       <section>
-      <p>La revolució digital <span class="important">canvia</span> la forma en que v*ivim, en que accedim al coneixe*ment, a la creació, <span class="important">canvia</span> la forma de relacionar-nos... <span class="important">Canvia</span> com les persones entren en contacte i viuen la cultura; ha de canviar com els gestors intentem facilitar aquest contacte i relació.</p>
+      <p>La revolució digital <span class="important">canvia</span> la forma en que vivim, en que accedim al coneixement, a la creació, <span class="important">canvia</span> la forma de relacionar-nos... <span class="important">Canvia</span> com les persones entren en contacte i viuen la cultura; ha de canviar com els gestors intentem facilitar aquest contacte i relació.</p>
 
       <p>El màrqueting, entès com a la disciplina que engloba molt diverses tècniques que ens permeten connectar i servir millor a la nostra <span class="important">comunitat</span>, esdevé imprescindible per a la gestió cultural.</p>
 
@@ -63,13 +76,8 @@
  
   
   
-  <div class="slideshare"> 
-       <iframe src="http://www.slideshare.net/slideshow/embed_code/15701004" width="600" height="500"  frameborder="0" marginwidth="0" marginheight="0" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> 
-       <div>
-        <strong> <a href="http://www.slideshare.net/teknecultura/auca-teknecultura" title="Auca Teknecultura" target="_blank">Auca Teknecultura</a> </strong> from <strong><a href="http://www.slideshare.net/teknecultura" target="_blank">TekneCultura</a></strong> 
-       </div>
-  </div>
-<!-- <script async class="speakerdeck-embed" data-id="2ccadb102d98013019c21231381d8461" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> -->
+
+
     
 <?php include 'footer.php'; ?>
 

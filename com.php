@@ -30,7 +30,7 @@
           <a  href="que.php"> Què </a>
           <a class="menu-active" href="com.php"> Com</a>
           <a href="qui.php"> Qui</a>
-          <a href="http://localhost:8888/wp%20test%20themes%20/"> Bloc...</a>
+          <a href="/bloc"> Bloc...</a>
           <a class="hidden-phone" href="mailto:info@teknecultura.com"> Contacte</a>
     </nav>
   </header>
@@ -87,9 +87,9 @@
       <h2>disseny, implementació i seguiment de màrqueting per a la difusió cultural</h2>
     </header>
       
-      <section>
+      <section class="serveis" >
         <h3 class="important" >Característiques del servei</h3>
-        <ul>
+        <ul >
           <li>atenció rebuda per un equip organitzat ad hoc per al client dirigit per un responsable del client per part de Teknecultura</li>
           <li>en contacte permanent per detectar i atendre necessitats de màrqueting operatiu</li>
           <li>disponibilitat de recursos directa i total, idèntica a una integració orgànica del servei</li>
@@ -99,7 +99,7 @@
         </ul>
       </section>
       
-      <section>
+      <section class="serveis">
         <h3 class="important">Descripció dels serveis</h3>
       
         <h4>pla de Continguts i Mètriques PCM</h4>
