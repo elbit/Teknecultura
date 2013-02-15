@@ -15,7 +15,7 @@
                 <li itemprop="region">Barcelona</li>
                 <li itemprop="country-name" class="hidden">Spain</li>
               </ul>
-              <li itemprop="tel" href="939853242">93 985 32 42</li>
+              <li><a itemprop="tel" href="tel:936853242">936 853 242</a></li>
         </ul>
       </div>
       
