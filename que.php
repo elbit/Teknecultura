@@ -6,10 +6,10 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>TekneCultura</title>
-    <meta name="description" content="Serveis per a projectes culturals per conèixer i connectar amb la seva comunitat">
+    <title>TekneCultura - Què fem</title>
+    <meta name="description" content="Teknecultura contribueix a millorar el coneixement i la connexió del projecte cultural amb la comunitat que serveix.">
     <meta name="author" content="www.elbit.cat">
-    <meta name="version" content="0.4">
+    <meta name="version" content="0.9">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="css/estil.css">
@@ -70,39 +70,17 @@
       
     </section>
 
-   <!--  <p><strong>Teknecultura</strong> contribueix a millorar el coneixement i la connexió del projecte cultural amb la comunitat que serveix (o vol i necessita servir).</p> -->
+  
     
   </article>
  
   
   
-
-
-    
-<?php include 'footer.php'; ?>
-
+  <?php include 'footer.php'; ?>
 
 </div> <!-- fi container -->
 
 
-
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
-    
-    <script type="text/javascript">
-
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-36720546-1']);
-      _gaq.push(['_setDomainName', 'teknecultura.com']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-
-    </script>
 </body>
 </html>
   

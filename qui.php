@@ -6,10 +6,10 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>TekneCultura</title>
+    <title>TekneCultura - Qui som</title>
     <meta name="description" content="Serveis per a projectes culturals per conèixer i connectar amb la seva comunitat">
     <meta name="author" content="www.elbit.cat">
-    <meta name="version" content="0.5">
+    <meta name="version" content="0.9">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="css/estil.css">
@@ -41,51 +41,40 @@
     <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
       
       <img src="img/ferran.jpg" itemprop="image" />
+      
       <ul class="unstyled-list">
         <li itemprop="name" class="bold">Ferran López</li>
-
         <li itemprop="jobTitle">Direcció</li>
-        
         <li itemprop="email"><a href="mailto:info@teknecultura.com">info@teknecultura.com</a></li>
-        
         <li><a href="https://twitter.com/ferran_lopez" itemprop="url">@ferran_lopez</a> | <a href="http://es.linkedin.com/in/ferranlopezarbiol" itemprop="url">linkedin</a></li>
-        
       </ul>
       
       <blockquote itemprop="description">La revolució digital ho canvia tot, també la forma de gestionar la cultura</blockquote>
+    
     </div>
     
     
     <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
       
       <img src="img/carles.jpg" itemprop="image" />
+      
       <ul class="unstyled-list">
         <li itemprop="name" class="bold">Carles Ponce</li>
-
         <li itemprop="jobTitle">Coordinació i mètriques</li>
-        
         <li itemprop="email"><a href="mailto:carles@teknecultura.com"> carles@teknecultura.com</a></li>
-        
-        
       </ul>
       
       <blockquote itemprop="description">L’home sistemàtic i matinador, fanàtic de l’ordre i la planificació</blockquote>
+    
     </div>
-      
-      
-   
-      
+    
     <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
       
       <img src="img/pep0.2.jpg" itemprop="image" />
       <ul class="unstyled-list">
         <li itemprop="name" class="bold">Josep Bergadà</li>
-
         <li itemprop="jobTitle">Suport a continguts </li>
-        
         <li itemprop="email"><a href="mailto:pep@teknecultura.com">pep@teknecultura.com</a></li>
-        
-        
       </ul>
       
       <blockquote itemprop="description">Coneix totes les músiques i li agrada tota la cultura</blockquote>
@@ -94,21 +83,21 @@
     <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
       
       <img src="img/laura.jpg" itemprop="image" />
+      
       <ul class="unstyled-list">
         <li itemprop="name" class="bold">Laura Montoy</li>
-
         <li itemprop="jobTitle">Disseny</li>
-        
         <li itemprop="email"><a href="mailto:disseny@teknecultura.com">disseny@teknecultura.com</a></li>
-        
-       </ul> 
+      </ul> 
       
       <blockquote itemprop="description">La garantia del bon gust en tot l’equip</blockquote>
+    
     </div>
     
     <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
       
       <img src="img/elbit.png" itemprop="image" />
+      
       <ul class="unstyled-list" >
         <li itemprop="name" class="bold">elbit.cat</li>
         <li itemprop="jobTitle"> TIC i front-end developer</li>
@@ -119,41 +108,13 @@
       <blockquote itemprop="description">Entre codis, html5, css, js, cms, mysql</blockquote>
     </div>
     
-    <!-- <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
-      
-      <img src="img/pots-ser-tu.png" itemprop="image" />
-      <ul class="unstyled-list" >
-        <li itemprop="name" class="bold"></li>
-        <li itemprop="jobTitle"></li>
-        <li itemprop="email"></li>
-        <li><a href="http://elbit.cat" itemprop="url"></a></li>
-      </ul>
-      
-      <blockquote itemprop="description"></blockquote>
-    </div> -->
     
   </div>
-<?php include 'footer.php'; ?>
+  
+  <?php include 'footer.php'; ?>
 
-</div>
+</div> <!-- fi container -->
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
-    
-    <script type="text/javascript">
-
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-36720546-1']);
-      _gaq.push(['_setDomainName', 'teknecultura.com']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-
-    </script>
 </body>
 </html>
       

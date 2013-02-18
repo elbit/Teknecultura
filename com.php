@@ -6,10 +6,10 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>TekneCultura</title>
-    <meta name="description" content="Serveis per a projectes culturals per conèixer i connectar amb la seva comunitat">
+    <title>TekneCultura - Com</title>
+    <meta name="description" content="TekneCultura és la solució que permet disposar d’un departament especialitzat en màrqueting cultural, però amb costos flexibles i adaptables a les necessitats, sense incrementar o sobrecarregar estructura actual, amb especialistes i les eines més innovadores.">
     <meta name="author" content="www.elbit.cat">
-    <meta name="version" content="0.5">
+    <meta name="version" content="0.9">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="css/estil.css">
@@ -21,7 +21,7 @@
     
 <div id="top" class="container" >
 
- <header > 
+  <header > 
     <div class="logo">
         <a href="index.php"  alt="home"><img src="img/teknelogo-beta-0.6.png"></a>
     </div>
@@ -31,7 +31,7 @@
           <a class="menu-active" href="com.php"> Com</a>
           <a href="qui.php"> Qui</a>
           <a href="/bloc"> Bloc...</a>
-          <a class="hidden-phone" href="mailto:info@teknecultura.com"> Contacte</a>
+          <a class="hidden-phone" href="contacte.php"> Contacte</a>
     </nav>
   </header>
   
@@ -72,15 +72,9 @@
           </li>
         
         </ul>
-        
-      </section>
-    
-    
-    
+        </section>
   </article>
   
-  
-
   <article>
     <header>
       <h1>TekneCultura:</h1>
@@ -178,24 +172,8 @@
    
   <?php include 'footer.php'; ?> 
   
-  </div>
-
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
-    
-    <script type="text/javascript">
-
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-36720546-1']);
-      _gaq.push(['_setDomainName', 'teknecultura.com']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-
-    </script>
+</div> <!-- fi container -->
+  
+ 
 </body>
 </html>

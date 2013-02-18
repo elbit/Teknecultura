@@ -6,10 +6,10 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>TekneCultura</title>
-    <meta name="description" content="Serveis per a projectes culturals per conèixer i connectar amb la seva comunitat">
+    <title>TekneCultura - Contacte</title>
+    <meta name="description" content="Contacta amb Tekneclutura">
     <meta name="author" content="www.elbit.cat">
-    <meta name="version" content="0.5">
+    <meta name="version" content="0.9">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="css/estil.css">
@@ -60,6 +60,8 @@
     
     
   <?php include 'footer.php'; ?>
+  
+</div> <!-- fi container -->
 
   <script type="text/javascript">var q7x3a1;(function(d, t) {
       var s = d.createElement(t), options = {

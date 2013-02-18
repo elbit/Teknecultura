@@ -9,7 +9,7 @@
     <title>TekneCultura</title>
     <meta name="description" content="Serveis per a projectes culturals per conèixer i connectar amb la seva comunitat">
     <meta name="author" content="www.elbit.cat">
-    <meta name="version" content="0.5">
+    <meta name="version" content="0.9">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="css/estil.css">
@@ -41,8 +41,6 @@
       </nav>
     
   </header>
-
-
 
   <div id="myCarousel" class="carousel slide">
     <!-- Carousel items -->
@@ -175,7 +173,9 @@
   </div>
 
 
-<?php include 'footer.php'; ?>
+  <?php include 'footer.php'; ?>
+
+</div> <!-- fi container -->
 
 
 </body>
