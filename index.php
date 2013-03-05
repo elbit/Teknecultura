@@ -102,12 +102,12 @@
       
       <div class="module well">
         <h3 class="header-feature responsive_headline2"  >Disseny i implementació estratègia de contingut</h3>
-        <p>El contingut, el que fem i com ho expliquem a través d’un relat multimèdia (transmedia storytelling), és el que ens connecta amb la nostra comunitat. TekneCultura t’ajuda a definir, planificar, mesurar i avaluar aquest contingut</p>
+        <p>El contingut, el que fem i com ho expliquem a través d’un relat multimèdia (transmedia storytelling), és el que ens connecta amb la nostra comunitat. TekneCultura t’ajuda a definir, planificar, mesurar i avaluar aquest contingut.</p>
         <img src="img/icona1.png"> 
       </div>
 
       <div class="module well">
-          <h3 class="header-feature responsive_headline2" id="responsive_headline2">Recull de dades i gestió d’e-mail màrqueting</h3>
+          <h3 class="header-feature responsive_headline2" id="responsive_headline2">Gestió de bases de dades i d’email màrqueting.</h3>
           <p>La qualitat de la base de dades amb la informació ordenada, revisada i integral, és clau per comunicar-te amb la teva comunitat. L’e-mail màrqueting és una eina molt poderosa per conèixer millor la teva comunitat i per a incrementar la venda d’entrades.</p>
          <img src="img/icona2.png"> 
       </div>
@@ -153,7 +153,7 @@
       </li>
       <li>
         <a href="http://www.cruillabarcelona.com" target="_blank">
-          <img class="logo-vertical" src="img/logo-cruilla-2.png">
+          <img class="logo-vertical" src="img/logo-cruilla-3.png">
         </a>
       </li>
       <li>

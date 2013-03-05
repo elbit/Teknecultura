@@ -70,7 +70,7 @@
     
     <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
       
-      <img src="img/pep0.2.jpg" itemprop="image" />
+      <img src="img/pep0.3.jpg" itemprop="image" />
       <ul class="unstyled-list">
         <li itemprop="name" class="bold">Josep Bergadà</li>
         <li itemprop="jobTitle">Suport a continguts </li>

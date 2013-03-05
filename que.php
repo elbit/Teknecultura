@@ -42,9 +42,20 @@
     
   </header>
   
+   <article>
+   <h1>Què fem</h1>
+    
+      <h2>
+      Teknecultura soluciona la necessitat de <span class="important">gestió de màrqueting de projectes cuturals.</span> A ajudar a definir l’estratègia, a implementar-la, a mesurar i analitzar els resultats per després avaluar-la i millorar-la.
+      </h2>
+
+  
+    
+  </article>
+  
   <article class="que-fem">
     
-    <h1>Què fem</h1>
+    
     
       <div class="slideshare"> 
        <iframe src="http://www.slideshare.net/slideshow/embed_code/15701004" width="600" height="500"  frameborder="0" marginwidth="0" marginheight="0" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> 
@@ -57,22 +68,7 @@
 
     
   </article>
-  <article>
-    <h2><strong>Teknecultura</strong> contribueix a millorar el coneixement i la connexió del projecte cultural amb la comunitat que serveix.</h2>
-      <section>
-      <p>La revolució digital <span class="important">canvia</span> la forma en que vivim, en que accedim al coneixement, a la creació, <span class="important">canvia</span> la forma de relacionar-nos... <span class="important">Canvia</span> com les persones entren en contacte i viuen la cultura; ha de canviar com els gestors intentem facilitar aquest contacte i relació.</p>
-
-      <p>El màrqueting, entès com a la disciplina que engloba molt diverses tècniques que ens permeten connectar i servir millor a la nostra <span class="important">comunitat</span>, esdevé imprescindible per a la gestió cultural.</p>
-
-      <p>Adoptem noves tècniques i eines de gestió: tiqueting, CRM, xarxes socials, mails... <span class="important">Eines</span> que ens faciliten un munt d’informació de la que abans no disposàvem, sobre la nostra comunitat i sobre com el nostre contingut hi arriba. Aquestes noves eines i major informació requereixen de temps, de recursos i de coneixement específics.</p>
-
-      <p><strong>Teknecultura</strong> ve a atendre aquesta necessitat de <span class="important">gestió de màrqueting</span>. A ajudar a definir l’estratègia, a implementar-la, a mesurar i analitzar els resultats per després avaluar-la i millorar-la.</p>
-      
-    </section>
-
-  
-    
-  </article>
+ 
  
   
   

@@ -3,7 +3,7 @@
         <ul class=" address " itemscope itemtype="http://data-vocabulary.org/Organization">
               <li itemprop="brand">
                 <a href="http://teknecultura.com" itemprop="url">
-                  <img src="img/teknelogo-beta-0.6.png" alt="home">
+                  <img src="img/teknelogo-beta-0.6.1-transparent.png" alt="home">
                 </a>
               </li>
               <br/>
@@ -19,8 +19,9 @@
         </ul>
       </div>
       
-      <div class=" module-footer  well">
-              <img src="img/mailing3.png">
+      <div class=" module-footer well mailing-list">
+        
+        <img src="img/mailing3.png">
       
         <div class="navbar-inner cta cta-footer">
 
@@ -54,7 +55,7 @@
             <!-- <span class="half-width float-left"> -->
               <a href="../bloc"> Bloc...</a>
               <a href="../contacte.php"> Contacte</a>
-              <a class="to-top no-margin-right" href="#top">&#11014; Puja &#11014;</a>
+              <a class="to-top no-margin-right" href="#top">&#8679; Puja &#8679;</a>
            <!--  </span> -->
         </nav>
       
@@ -63,10 +64,6 @@
   </footer>
   
   
-
-
-
-
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
     <script src="js/bootstrap-transition.js"></script>
