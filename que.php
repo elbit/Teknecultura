@@ -46,8 +46,11 @@
    <h1>Què fem</h1>
     
       <h2>
-      Teknecultura soluciona la necessitat de <span class="important">gestió de màrqueting de projectes cuturals.</span> A ajudar a definir l’estratègia, a implementar-la, a mesurar i analitzar els resultats per després avaluar-la i millorar-la.
+      Teknecultura soluciona la necessitat de <span class="important">gestió de màrqueting de projectes cuturals.</span> A ajudar a definir l’estratègia, a implementar-la, a mesurar i analitzar els resultats per després avaluar-la i millorar-la. 
       </h2>
+      <a href="http://teknecultura.com/bloc/que-fem/"  class="to-bloc">Més informacio →</a> 
+
+      
 
   
     
