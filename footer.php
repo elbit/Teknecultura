@@ -3,7 +3,7 @@
         <ul class=" address " itemscope itemtype="http://data-vocabulary.org/Organization">
               <li itemprop="brand">
                 <a href="http://teknecultura.com" itemprop="url">
-                  <img src="img/teknelogo-beta-0.6.1-transparent.png" alt="home">
+                  <img src="img/teknelogo-transparent-1.0.png" alt="home">
                 </a>
               </li>
               <br/>
@@ -19,9 +19,9 @@
         </ul>
       </div>
       
-      <div class=" module-footer well mailing-list">
+      <div class="module-footer well mailing-list">
         
-        <img src="img/mailing3.png">
+        <img src="img/mailing4.png">
       
         <div class="navbar-inner cta cta-footer">
 
@@ -38,8 +38,8 @@
       <div class="module-footer well xarxes no-margin-right">
       
         
-        <a class="twitter-timeline"  height="350"href="https://twitter.com/teknecultura" data-widget-id="301042086843662338">Tuits de @teknecultura</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        <a class="twitter-timeline" height="355px" href="https://twitter.com/teknecultura" data-widget-id="301042086843662338">Tuits de @teknecultura</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 
 

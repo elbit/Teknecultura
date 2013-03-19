@@ -98,7 +98,7 @@
       </form>
   </div>
   
-  <div class="features clearfix"> <!-- fila1 -->
+  <div class="features "> <!-- fila1 -->
       
       <div class="module well">
         <h3 class="header-feature responsive_headline2"  >Disseny i implementació estratègia de contingut</h3>
@@ -143,7 +143,7 @@
   </div>
 
   <div class="well clients"> 
-    <h3>Ja comptem anb la confiança de:</h3> 
+    <h3>Ja comptem amb la confiança de:</h3> 
 
     <ul>
       <li>

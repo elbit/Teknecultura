@@ -1,31 +1,31 @@
-// V 0.7
+// V 0.9
 
 @color2:#4999c9;
 
 // Tipografia
 
-* {-webkit-font-smoothing:antialiased;}
+// * {-webkit-font-smoothing:antialiased;}
 
-h1 {color:@color2;}
+// h1 {color:@color2;}
 
-h2 {color:silver;}
+// h2 {color:silver;}
 
-h4 { margin-top:3%;}
-ul {margin-left:1.2em;}
-li {margin-bottom: 1%; }
+// h4 {margin-top:3%;}
+
+
+// ul {margin-left:1.2em;}
+// li {margin-bottom: 1%; }
 
 
 iframe {width: 100%;}
 
-.important {color:@color2; font-weight: bold;}
-
 .bold { font-weight:bold;}
-
+.important {color:@color2; font-weight:bold;}
 .important-second { color:silver; font-weight:600; font-size: 1.2em;}
 
-.unstyled-list { list-style: none;}
+.unstyled-list {list-style: none;}
 
-.inline { display:inline;}
+.inline {display:inline;}
 
 .normal-line-height { line-height:1; }
 
@@ -33,7 +33,10 @@ iframe {width: 100%;}
 
 .float-left { float:left;}
 
-.no-margin-right { margin-right:0;}
+.no-margin-right {margin-right:0 !important;}
+
+
+.container {width:85%; }
 
 
 //--------------------------------------------------Header
@@ -41,20 +44,19 @@ iframe {width: 100%;}
 header { margin-top:1%; margin-bottom:2%; width:100%; 
 	.clearfix;
 	
-	.logo { width: 50%;  float:left; margin-bottom: 3%;}
+	.logo { width:50%;  float:left; margin-bottom: 3%;}
     
     
 }
-.menu{  width: 50%; float:right;   font-size: 0.9em !important;
+.menu{  width:50%; float:right;  font-size:0.9em;
     	
     	a { width:19%;
-    		line-height:1.4;
+    		
     		float:left;
     		margin-left: 1%;
     		text-align:center; 
     		color:white;
-    		font-weight: bold; 
-    		font-size: 1em;
+    		font-weight:bold; 
     		background:#2C2C2C; 
 			.border-radius(4px); 
 			-webkit-transition: all 0.2s ease-in;  /* Safari 3.2+, Chrome */
@@ -68,7 +70,7 @@ header { margin-top:1%; margin-bottom:2%; width:100%;
 
 }		
 
-.slide {float:left; width:100%; margin-bottom:1%; margin-top: -2em;
+.slide {float:left; width:100%; margin-bottom:1%; margin-top:-5em;
 
 		
 
@@ -78,9 +80,7 @@ header { margin-top:1%; margin-bottom:2%; width:100%;
 		.slide-anchor a { background: silver; text-indent: -999999px;
 						  width:20px;
 						  height:20px;
-
 						  border-radius:50%;
-						  
 						  display: inline-block;
 						  &:hover {background:silver;}
 		}
@@ -90,32 +90,27 @@ header { margin-top:1%; margin-bottom:2%; width:100%;
 .slide-activo {background:gray!important;}
 
 
-.cta {  margin-bottom:3%; color:white;float:left; width:99.5%; padding: 0.5% 0; 
+.cta {  margin-bottom:3%; color:white;float:left; width:99.5%; padding:0.3em 0; 
 
-		h2 { float:left; width:30%; margin-right:2%; margin-left: 2%;display: inline; margin-bottom: 0;}
+		h2 { float:left; width:30%; margin-right:2%; margin-left:2%; display:inline; margin-bottom:0;}
 		input { width: 31%; float:left; margin-right: 2%; margin-top: 0;}
 		.btn  { width: 30%; float:right; margin-right:1.5%; }
 	
 }
-.cta-lema  { font-size: 1.1em !important;}
+//.cta-lema  { font-size: 1.1em !important;}
 
-.slideshare { margin: 2% 0; float:left;
-
-		iframe { width: 100%;  
-			.slideDisplayer.jsplBgColorCCC { background-color: white !important;}
-
-		}
-}
+.slideshare { margin: 2% 0; float:left;}
 
 
 //------------------------------------------Main
-.module {width:27%; float:left; margin-left:2%; min-height: 340px; padding:1%; position:relative;}
 
-.features { width: 109%; margin-left: -2%; float:left;
+.module {width:27%; float:left; margin-left:2%; min-height:355px; padding:1%; position:relative;}
 
-	
 
-	h3 {  text-align:center; margin-top: 3%; padding-bottom: 3%;
+
+.features { width: 109%; margin-left:-2%; float:left;
+
+	h3 {  text-align:center; margin-top: 3%; 
 		 line-height: 1.2;
 		}
 	
@@ -123,11 +118,11 @@ header { margin-top:1%; margin-bottom:2%; width:100%;
 	
 	img {max-width: 60%; margin-top: 10%; left: 20%; bottom: 5%; position: absolute;}
 	
-	p {padding: 3%; }
+	p {padding: 0 1em ; }
 
 }
 
-.clients { float:left; width:98%; padding: 1%;
+.clients { float:left; width:97%; padding:1em;
 
 		ul { list-style:none;
 
@@ -136,17 +131,15 @@ header { margin-top:1%; margin-bottom:2%; width:100%;
 				 text-align: center; 
 				 
 				img {
-
-					
 					max-width: 60%;
 					max-height: 8%; 
 				 	margin-top: 8%;
 					   
 					}
 					
-				 img:hover { .opacity(40);}
+				img:hover { .opacity(40);}
 				
-				.logo-vertical { margin-top: 0; }
+				.logo-vertical {margin-top:0;}
 				
 			}
 		}
@@ -186,43 +179,43 @@ section { width: 70%; margin-left: 25%; margin-bottom: 3%; float: right;
 .g-map {width: 100%; min-height: 300px;}
 
 
+
 //----------------------------------------------------Footer
 
-footer { float:left; width:104%;  padding: 0;
-		li {list-style:none; font-size: 1em; text-align: center; margin-top: 2%;}
-		img {max-width: 100%;}
+footer { float:left; width:104%; padding:0;
+		
+		li {list-style:none; text-align:center;}
+		img {margin-top:0;}
 		
 }
-.module-footer {width:28.5%; float:left; margin-top:0; min-height:340px; margin-right:2%; padding: 0.5% 1%; 
+.module-footer {width:28%; float:left; margin-top:0; margin-right:2%; min-height:360px; padding:1em; 
 
 }
 
-.mailing-list { padding-top:0!important;}
+.address {margin-top:2em;} 
 
-.address { padding-top:6%;} 
-.menu-footer {width:94.5%; float: left; padding: 1% 0 1% 1%;
+.cta-footer { padding: 1% 5% 2% 5%;  width:90%;  margin-top:2em;  margin-bottom: 0;
+
+			h2 {float:left; width:100%; margin-bottom:1%;text-align:center; font-size: 1.5em; margin-top:1%;}
+		 	.btn { float:left; width:100%; margin-bottom:1%;text-align:center; }
+		 	input { width:97%; margin-bottom: 2%;}
+}
+
+.twitter-timeline { border-bottom: 2px solid gray; width:100%; margin-bottom:0;
+					border-radius:3px;  
+}
+
+.menu-footer {width:93.3%; float:left; padding:1em; min-height: 1em;
  	
- 			a { float:left; font-size: 0.9em; width:15.5%;}
+ 			a { float:left;font-size:0.9em; width:15.5%;}
 }
-
- 
 
 .to-top { background-color:gray !important;
 
 		&:hover{ background-color: #333 !important;}
 }
 
-.cta-footer { padding: 1% 5% 2% 5%;  width: 90%;  
 
-
-		 h2    { float:left; width:100%; margin-bottom:1%;text-align:center; font-size: 1.5em; margin-top: 1%;}
-		 .btn { float:left; width:100%; margin-bottom:1%;text-align:center; }
-		 input { width:97%; margin-bottom: 2%;}
-}
-
-.twitter-timeline { height: 350px; border-bottom: 2px solid gray;  width: 97%;
-					border-radius:3px;
-}
 
 //------------------------------------------------------Que fem
 

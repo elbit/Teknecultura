@@ -76,26 +76,29 @@
   }
 }
 @media (min-width: 30.1em) and (max-width: 47.9em) {
+  body {
+    font-size: 90%;
+  }
   .container {
     width: 95%;
+    background: pink;
   }
   header .logo {
     width: 60%;
     float: left;
-    margin-bottom: 2%;
-    margin-top: 1%;
+    margin-bottom: 1em;
   }
   header .menu {
     width: 100%;
     float: left;
-    margin-bottom: 1%;
+    margin-bottom: 4em;
     z-index: 1;
   }
   header .menu a {
     width: 19% !important;
   }
   .cta {
-    margin-bottom: 3%;
+    margin-bottom: 1em;
     width: 100%;
   }
   .cta h2 {
@@ -117,17 +120,16 @@
     float: right;
     margin-right: 1.5%;
   }
-  .cta-lema {
-    font-size: 1em ;
-  }
   .features {
-    width: 100%;
-    display: inline;
+    display: hidden;
     float: none;
+    width: 104%;
   }
   .features .module {
-    min-height: 420px;
+    min-height: 390px;
     width: 45%;
+    float: left;
+    display: block !important;
   }
   .features img {
     max-width: 75%;
@@ -135,15 +137,6 @@
     left: 10%;
     bottom: 5%;
     position: absolute;
-  }
-  .features h4 {
-    font-size: 20px;
-    line-height: 1.3;
-  }
-  .features p {
-    font-size: 14px;
-    padding: 4%;
-    line-height: 1.4;
   }
   section {
     width: 100%;
@@ -222,6 +215,7 @@
 @media (max-width: 30em) {
   * {
     font-size: 0.95em;
+    background: salmon;
   }
   p {
     margin-top: 0;
@@ -374,6 +368,12 @@
   }
   .intro p {
     padding: 0 ;
+  }
+}
+@media (min-width: 74.94em) and (max-width: 80.625em) {
+  .cta-footer {
+    margin-top: 2.5em;
+    background: lime;
   }
 }
 @media (min-width: 48em) and (max-width: 74.9375em) {
@@ -588,8 +588,12 @@
   }
 }
 @media (min-width: 48em) and (max-width: 74.9375em) {
+  body {
+    font-size: 90%;
+  }
   .container {
     width: 95%;
+    background: yellow;
   }
   .cta {
     width: 100%;
@@ -601,13 +605,12 @@
     width: 102.5%;
   }
   .features .module {
-    min-height: 420px;
+    min-height: 350px;
     width: 29%;
   }
   .features img {
-    max-width: 75%;
+    max-width: 60%;
     margin-top: 4%;
-    left: 10%;
     bottom: 5%;
     position: absolute;
   }
@@ -620,8 +623,15 @@
     padding: 4%;
     line-height: 1.4;
   }
+  .module-footer {
+    height: 355px;
+  }
+  footer {
+    width: 102%;
+  }
   .cta-footer {
     width: 90%;
+    margin-top: 2em;
   }
   .visible-tablet {
     display: inherit !important;
@@ -651,29 +661,8 @@
     min-height: 430px;
   }
 }
-@media (min-width: 75em) and (max-width: 90.0625em) {
-  .container {
-    width: 80%;
-  }
-  .features .module {
-    min-height: 380px;
-  }
-  .cta-lema {
-    font-size: 1.1em ;
-  }
-  .module-footer {
-    width: 28.5%;
-    float: left;
-    margin-top: 0;
-    min-height: 360px;
-    margin-right: 2%;
-    padding: 0.5% 1%;
-  }
-  .slideshare iframe {
-    height: 600px !important;
-  }
-}
 @media (min-width: 90.0626em) {
+  /* 1440 px*/
   .container {
     width: 75%;
   }
