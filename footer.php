@@ -1,9 +1,9 @@
   <footer> 
-    <div class="well module-footer">
-        <ul class=" address " itemscope itemtype="http://data-vocabulary.org/Organization">
+    <div class="well module-footer address">
+        <ul itemscope itemtype="http://data-vocabulary.org/Organization">
               <li itemprop="brand">
-                <a href="http://teknecultura.com" itemprop="url">
-                  <img src="img/teknelogo-transparent-1.0.png" alt="home">
+                <a href="http://teknecultura.com" itemprop="url" >
+                  <img class="logo-peu" src="img/teknelogo-transparent-1.0.png" alt="home">
                 </a>
               </li>
               <br/>
@@ -21,9 +21,11 @@
       
       <div class="module-footer well mailing-list">
         
-        <img src="img/mailing4.png">
+          <img src="img/mailing4.png">
       
         <div class="navbar-inner cta cta-footer">
+
+
 
              <form action="http://produccionscontrabaix.us5.list-manage.com/subscribe/post?u=df5f9aafe375682bc4f69b46d&amp;id=2405a54f28" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate navbar-form" target="_blank" novalidate>
               <h2 class="cta-lema">Subscriu-te al bloc i rep informació:</h2>
@@ -66,12 +68,15 @@
   
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
+    
     <script src="js/bootstrap-transition.js"></script>
     <script src="js/bootstrap-carousel.js"></script>
+    
     <script src="js/jquery.fittext.js"></script>
     <script type="text/javascript">
     $("#fittext3").fitText(4);
-    $(".responsive_headline2").fitText(1.5);
+    $(".responsive_headline2").fitText(1.4);
+    $(".cta-lema").fitText(1.6);
     $("#fittext3").fitText(1.8, { minFontSize: 14, maxFontSize: '20px' });
     </script>
 

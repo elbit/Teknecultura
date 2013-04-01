@@ -43,10 +43,10 @@
     
   </header>
   
-  <!-- <img src="img/contacte0.5.png"> -->
+  
   <h1>Contacte</h1>
   <div id="wufoo-q7x3a1" class="well">
-      Fill out my <a href="http://pcbadds.wufoo.com/forms/q7x3a1">online form</a>.
+      Un moment si us plau, si no carrega aneu a<a href="http://pcbadds.wufoo.com/forms/q7x3a1">formulari online</a>.
   </div>
   
   

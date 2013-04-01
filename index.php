@@ -8,6 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>TekneCultura</title>
     <meta name="description" content="Serveis per a projectes culturals per conèixer i connectar amb la seva comunitat">
+    <meta name="keywords" content="marqueting cultural,transmedia storytelling,gestio de bases de dades,comunitat,email màrqueting">
     <meta name="author" content="www.elbit.cat">
     <meta name="version" content="0.9">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
