@@ -19,7 +19,8 @@
     <script src="js/vendor/modernizr-2.6.1.min.js"></script>
 </head>
     
-    
+<body>   
+
 <div id="top" class="container" >
 
      <header > 
@@ -37,7 +38,11 @@
           </nav>
         
       </header>
-  <div class="container-qui">  
+  
+  <div class="container-qui">
+    
+    <!-- <p>Inspirats per la necessitat de gestió de màrqueting (identificada treballant a la promotora i productora musical Produccions ContraBaix); i sumant experiència en difusió cultural, esperit innovador i creatiu, i formació específica en gestió, els socis i col·laboradors de TekneCultura decideixen impulsar aquest projecte que pren forma el 2013.</p>  --> 
+    
     <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
       
       <img src="img/ferran.jpg" itemprop="image" />
@@ -70,7 +75,7 @@
     
     <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
       
-      <img src="img/pep0.3.jpg" itemprop="image" />
+      <img src="img/pep0.7.jpg" itemprop="image" />
       <ul class="unstyled-list">
         <li itemprop="name" class="bold">Josep Bergadà</li>
         <li itemprop="jobTitle">Suport a continguts </li>

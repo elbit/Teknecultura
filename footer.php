@@ -28,7 +28,7 @@
 
 
              <form action="http://produccionscontrabaix.us5.list-manage.com/subscribe/post?u=df5f9aafe375682bc4f69b46d&amp;id=2405a54f28" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate navbar-form" target="_blank" novalidate>
-              <h2 class="cta-lema">Subscriu-te al bloc i rep informació:</h2>
+              <h2 class="cta-lema">Subscriu-te al bloc</h2>
               <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="el teu e-mail" required>
               <input type="submit" value="Subscriu-te" name="Subscriu-te" id="mc-embedded-subscribe" class="btn btn-info btn-block">
             </form>
@@ -75,9 +75,9 @@
     <script src="js/jquery.fittext.js"></script>
     <script type="text/javascript">
     $("#fittext3").fitText(4);
-    $(".responsive_headline2").fitText(1.4);
-    $(".cta-lema").fitText(1.6);
-    $("#fittext3").fitText(1.8, { minFontSize: 14, maxFontSize: '20px' });
+    $(".responsive_headline2").fitText(1.3);
+    $(".cta-lema").fitText(1.4);
+    $("#fittext3").fitText(1, { minFontSize: 16, maxFontSize: '25px' });
     </script>
 
     

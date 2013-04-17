@@ -40,7 +40,7 @@
     </nav>
   </header>
   
-  <article>
+  <article class="clearfix">
       <h1>TekneCultura: </h1>
       <h2>és una solució de màrqueting que...</h2>
       
@@ -78,40 +78,40 @@
   </article>
   
   <article>
-    <header>
+   
+   <div style="width:100%;">
       <h1>TekneCultura:</h1>
       <h2>disseny, implementació i seguiment de màrqueting per a la difusió cultural</h2>
-    </header>
+   </div>
       
-      <section class="serveis" >
-        <h3 class="important" >Característiques del servei</h3>
-        <ul >
-          <li>atenció rebuda per un equip organitzat ad hoc per al client dirigit per un responsable del client per part de Teknecultura</li>
-          <li>cost flexible i modular, de manera que es pot adaptar a necessitats i disponibilitats</li>
-          <li>millora continua i garantida en el procés de gestió de la informació: estratègia – implementació – anàlisi – revisió</li>
-          
-        </ul>
-      </section>
-      
-      <section class="serveis">
+      <section class="">
+        
+
+        
         <h3 class="important">Descripció dels serveis</h3>
       
-        
         <ul>
-          <li>Disseny, implementació, mètriques i avaluació de l’estratègia de Continguts</li>
-          <li>Gestió de serveis de tiqueting, bases de dades i CRM Màrqueting</li>
-          <li>Gestió e-mail màrqueting</li>
+          <li>Captació, registre i gestió de mètriques i dades</li>
+          <li>Elaboració d’informes detallats que faciliten la digestió de la informació</li>
+          <li>Anàlisi de dades, avaluació estratègia i continguts, segmentació</li>
+          <li>Disseny estratègia de continguts amb metodologia integral</li>
+          <li>Innovació, creativitat, construcció de relat transmedia</li>
+          <li>Elaboració de continguts email màrqueting</li>
+          <li>Elaboració de continguts web i blocs</li>
           <li>Assessorament, disseny i analítica web i campanyes d’anuncis digitals</li>
-          <li>Gestió social media</li>
+          <li>Elaboració de continguts, dinamització de conversa, gestió de casos a les xarxes socials</li>
+          <li>Gestió de comunitat a xarxes socials </li>
+          <li>Gestió de serveis de tiqueting, bases de dades i CRM Màrqueting</li>
         </ul>
+
+        <p><strong>Ens adaptem per cobrir les necessitats de màrqueting del projecte cultural. <br>
+          Complementem els recursos propis i les eines i serveis de màrqueting del projecte.</strong></p>
 
         <a href="http://teknecultura.com/bloc/com/"  class="to-bloc">Explicació dels serveis més detallats en aquest article del bloc. →</a> 
       
     </section>
 
-
-      
-  </article>
+</article>
   
 <?php include 'footer.php'; ?> 
   

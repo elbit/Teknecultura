@@ -10,7 +10,7 @@
     <meta name="description" content="Serveis per a projectes culturals per conèixer i connectar amb la seva comunitat">
     <meta name="keywords" content="marqueting cultural,transmedia storytelling,gestio de bases de dades,comunitat,email màrqueting">
     <meta name="author" content="www.elbit.cat">
-    <meta name="version" content="0.9">
+    <meta name="version" content="1.1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="css/estil.css">
@@ -93,30 +93,30 @@
   <div class="navbar-inner cta">
 
        <form action="http://produccionscontrabaix.us5.list-manage.com/subscribe/post?u=df5f9aafe375682bc4f69b46d&amp;id=2405a54f28" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate navbar-form" target="_blank" novalidate>
-        <h2 class="" id="fittext3">Subscriu-te al bloc i rep informació:</h2>
+        <h2 class="" id="fittext3">Subscriu-te al bloc : </h2>
         <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="el teu e-mail" required>
         <input type="submit" value="Subscriu-te" name="Subscriu-te" id="mc-embedded-subscribe" class="btn btn-info btn-block">
       </form>
   </div>
   
-  <div class="features "> <!-- fila1 -->
+  <div class="features"> <!-- fila1 -->
       
       <div class="module well">
-        <h3 class="header-feature responsive_headline2"  >Disseny i implementació estratègia de contingut</h3>
-        <p>El contingut, el que fem i com ho expliquem a través d’un relat multimèdia (transmedia storytelling), és el que ens connecta amb la nostra comunitat. TekneCultura t’ajuda a definir, planificar, mesurar i avaluar aquest contingut.</p>
-        <img src="img/icona1.png"> 
+        <h3 class="header-feature responsive_headline2"  >Mètriques i informes</h3>
+        <p>Observem i <span class="important">mesurem</span> de forma sistemàtica i planificada: resultats de vendes a través dels sistemes de tiqueting, dades email màrqueting, Google analítics, estadístiques xarxes socials... </p>
+        <img src="img/icona3.png"> 
       </div>
 
       <div class="module well">
-          <h3 class="header-feature responsive_headline2" id="responsive_headline2">Gestió de bases de dades i d’email màrqueting.</h3>
-          <p>La qualitat de la base de dades amb la informació ordenada, revisada i integral, és clau per comunicar-te amb la teva comunitat. L’e-mail màrqueting és una eina molt poderosa per conèixer millor la teva comunitat i per a incrementar la venda d’entrades.</p>
+          <h3 class="header-feature responsive_headline2" id="responsive_headline2">Anàlisi i coneixement</h3>
+          <p>A la recerca de <span class="important">coneixement de la nostra comunitat</span> gestionem i analitzem les dades. <span class="important">Avaluació d’estratègies i continguts</span>, perfils de l’audiència, segmentació.</p>
          <img src="img/icona2.png"> 
       </div>
 
       <div class="module well">
-        <h3 class="header-feature responsive_headline2" id="responsive_headline2">Gestió i analítica de les xarxes socials</h3>
-        <p>A través de les xarxes estàs en contacte directe amb els usuaris del teu projecte i de la teva comunitat. El potencial de les xarxes per a la cultura és enorme. TekneCultura treballa amb les eines adequades i acumula experiència per fer créixer la comunitat i el seu <em>engagement</em> amb nosaltres.</p>
-        <img src="img/xarxes-0.5.png">
+        <h3 class="header-feature responsive_headline2" id="responsive_headline2">Estratègia de màrqueting</h3>
+        <p>Acompanyem en l’elaboració de <span class="important">l’estratègia de màrqueting relacional i de continguts</span>, construcció del relat que ens connectarà amb la nostra comunitat.</p>
+        <img src="img/icona1.1.png">
       </div>
 
   </div>
@@ -124,20 +124,20 @@
   <div class="features clearfix"> <!-- fila2 -->
     
     <div class="module well">
-      <h3 class="header-feature responsive_headline2" id="responsive_headline2">Estudi i analítica de mètriques i dades</h3>
-      <p>Estem davant d’una nova disciplina i d’unes noves eines que ens aporten molta informació i dades útils, però només si les convertim en coneixement després de l’anàlisi. TekneCultura identifica les estratègies i continguts que fan una millor contribució als teus objectius, en un procés de millora continua.</p>
-      <img src="img/icona3.png">
+      <h3 class="header-feature responsive_headline2" id="responsive_headline2">Creativitat i innovació</h3>
+      <p>Aportem una visó externa, especialitzada, amb experiència i coneixements transversals i orientada a la <span class="important">innovació en el contingut i processos</span>.</p>
+      <img src="img/icona4.1.png">
     </div>
 
     <div class="module well">
-      <h3 class="header-feature responsive_headline2" id="responsive_headline2">Solució a les teves necessitats de màrqueting</h3>
-      <p>TekneCultura dissenya l’estratègia, elabora contingut, gestiona base de dades i CRM, analitza i segmenta, gestiona la comunitat i les xarxes socials, analitza i millora webs, dissenya campanyes publicitàries digitals... Soluciona les teves necessitats de màrqueting.</p>
-      <img src="img/icona4.1.png"> 
+      <h3 class="header-feature responsive_headline2" id="responsive_headline2">Elaboració de continguts</h3>
+      <p>Implementació de l’estratègia, elaboració de continguts integral o parcial. <span class="important">Contingut transmedia, web, bloc, email màrqueting i/o xarxes socials.</span></p>
+      <img src="img/xarxes-0.5.png"> 
     </div>
 
     <div class="module well ">
-      <h3 class="header-feature responsive_headline2" id="responsive_headline2">Servei integral o servei flexible i modular</h3>
-      <p>TekneCultura et pot oferir un servei global o específic, tu tries. Ens adaptem a les teves necessitats de forma flexible i sense compromís.</p>
+      <h3 class="header-feature responsive_headline2" id="responsive_headline2">Serveis a mida</h3>
+      <p><span class="important">Cobrim les necessitats</span> de serveis de màrqueting de projectes culturals. <span class="important">Complementem </span>noves eines amb anàlisi i coneixement.<span class="important"> Sumem</span> creativitat i innovació.</p>
       <img src="img/icona5.png">
     </div>
 
@@ -165,6 +165,11 @@
       <li>
         <a href="http://contrabaix.com" target="_blank">
           <img src="img/logo-contrabaix.png">
+        </a>
+      </li>
+       <li>
+        <a href="http://www.diba.es/cultura" target="_blank">
+          <img class="logo-vertical" src="http://www.diba.es/DibaNew-Home-theme/images/recursos/logo_home.gif">
         </a>
       </li>
      
