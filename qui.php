@@ -38,10 +38,16 @@
           </nav>
         
       </header>
-  
-  <div class="container-qui">
     
-    <!-- <p>Inspirats per la necessitat de gestió de màrqueting (identificada treballant a la promotora i productora musical Produccions ContraBaix); i sumant experiència en difusió cultural, esperit innovador i creatiu, i formació específica en gestió, els socis i col·laboradors de TekneCultura decideixen impulsar aquest projecte que pren forma el 2013.</p>  --> 
+    
+
+  <div class="container-qui">
+
+    <h4 class="description">
+    <blockquote>Els socis i col·laboradors de Teknecultura decideixen impulsar aquest projecte, que pren forma el 2013, inspirats per la necessitat de gestió de màrqueting  que van identificar treballant a la promotora i productora musical Produccions ContraBaix. A això hi van sumar la seva experiència en difusió cultural, l’esperit innovador i creatiu i la formació específica en màrqueting.</blockquote> 
+    </h4>
+    
+    
     
     <div class="well module-qui" itemscope itemtype="http://schema.org/Person">
       
