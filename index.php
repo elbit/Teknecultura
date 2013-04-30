@@ -51,7 +51,7 @@
       
       <div class="active item" id="item-1">
          
-        <img src="img/slide/slide-home-1.4.png">
+        <img src="img/slide/slide-home-1.1.png">
         
         <span class="slide-anchor">
           <a class="slide-activo" >1</a>
@@ -64,7 +64,7 @@
                   
       <div class="item" id="item-2">
           
-          <img src="img/slide/slide-home-2.4.png">
+          <img src="img/slide/slide-home-2.3.png">
           <span class="slide-anchor">
             <a href="#myCarousel" data-slide="prev">1</a>
             <a class="slide-activo" href="#myCarousel">2</a>
@@ -74,7 +74,7 @@
       
       <div class="item" id="item-3">
           
-          <img src="img/slide/slide-home-3.5.png">
+          <img src="img/slide/slide-home-3.3.png">
           <span class="slide-anchor">
             <a href="#myCarousel" data-slide="next">1</a>
             <a href="#myCarousel" data-slide="prev">2</a>
