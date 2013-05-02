@@ -75,7 +75,7 @@
     display: none !important ;
   }
 }
-@media (min-width: 30.1em) and (max-width: 47.9em) {
+@media (min-width: 30.1em) and (max-width: 47.999em) {
   body {
     font-size: 95%;
   }
@@ -131,11 +131,8 @@
     display: block !important;
   }
   .features img {
-    max-width: 75%;
+    max-width: 85%;
     margin-top: 4%;
-    left: 10%;
-    bottom: 5%;
-    position: absolute;
   }
   section {
     width: 100%;
@@ -266,15 +263,13 @@
     width: 92%;
     float: left;
     margin-left: 2%;
-    min-height: 270px;
+    min-height: 260px;
     padding: 1em;
     position: relative;
   }
   .features img {
-    max-width: 50%;
-    left: 25%;
-    bottom: 5%;
-    position: absolute;
+    max-width: 70%;
+    margin-top: 2%;
   }
   .cta {
     margin-bottom: 3%;
@@ -366,12 +361,21 @@
     padding: 0 ;
   }
 }
-@media (min-width: 48em) and (max-width: 56.25em) {
+@media (min-width: 48em) and (max-width: 56.25999em) {
   .container {
     width: 96%;
   }
+  .features {
+    display: hidden;
+    float: none;
+    width: 104%;
+  }
   .module {
-    min-height: 300px;
+    min-height: 310px;
+    background-color: pink;
+    width: 45%;
+    float: left;
+    display: block !important;
   }
   footer {
     width: 100%;
@@ -620,6 +624,7 @@
   .features .module {
     min-height: 290px;
     width: 29%;
+    background-color: salmon;
   }
   .features h4 {
     font-size: 20px;
