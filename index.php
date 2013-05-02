@@ -104,19 +104,19 @@
       <div class="module well">
         <h3 class="header-feature responsive_headline2"  >Mètriques i informes</h3>
         <p>Observem i <span class="important">mesurem</span> de forma sistemàtica i planificada: resultats de vendes a través dels sistemes de tiqueting, dades email màrqueting, Google analítics, estadístiques xarxes socials... </p>
-        <img src="img/icona3.png"> 
+        <h3><img src="img/icona-metriques.png"> </h3>
       </div>
 
       <div class="module well">
           <h3 class="header-feature responsive_headline2" id="responsive_headline2">Anàlisi i coneixement</h3>
           <p>A la recerca de <span class="important">coneixement de la nostra comunitat</span> gestionem i analitzem les dades. <span class="important">Avaluació d’estratègies i continguts</span>, perfils de l’audiència, segmentació.</p>
-         <img src="img/icona2.png"> 
+         <h3><img src="img/icona-analisi.png"> </h3>
       </div>
 
       <div class="module well">
         <h3 class="header-feature responsive_headline2" id="responsive_headline2">Estratègia de màrqueting</h3>
         <p>Acompanyem en l’elaboració de <span class="important">l’estratègia de màrqueting relacional i de continguts</span>, construcció del relat que ens connectarà amb la nostra comunitat.</p>
-        <img src="img/icona1.1.png">
+        <h3><img src="img/icona-estrategia.png"></h3>
       </div>
 
   </div>
@@ -126,19 +126,19 @@
     <div class="module well">
       <h3 class="header-feature responsive_headline2" id="responsive_headline2">Creativitat i innovació</h3>
       <p>Aportem una visó externa, especialitzada, amb experiència i coneixements transversals i orientada a la <span class="important">innovació en el contingut i processos</span>.</p>
-      <img src="img/icona4.1.png">
+      <h3><img src="img/icona-idea.png"></h3>
     </div>
 
     <div class="module well">
       <h3 class="header-feature responsive_headline2" id="responsive_headline2">Elaboració de continguts</h3>
       <p>Implementació de l’estratègia, elaboració de continguts integral o parcial. <span class="important">Contingut transmedia, web, bloc, email màrqueting i/o xarxes socials.</span></p>
-      <img src="img/xarxes-0.5.png"> 
+      <h3><img src="img/icona-continguts.png"></h3> 
     </div>
 
     <div class="module well ">
       <h3 class="header-feature responsive_headline2" id="responsive_headline2">Serveis a mida</h3>
       <p><span class="important">Cobrim les necessitats</span> de serveis de màrqueting de projectes culturals. <span class="important">Complementem </span>noves eines amb anàlisi i coneixement.<span class="important"> Sumem</span> creativitat i innovació.</p>
-      <img src="img/icona5.png">
+      <h3><img src="img/icona-serveis.png"></h3>
     </div>
 
   </div>

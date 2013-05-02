@@ -621,12 +621,6 @@
     min-height: 290px;
     width: 29%;
   }
-  .features img {
-    max-width: 60%;
-    margin-top: 4%;
-    bottom: 5%;
-    position: absolute;
-  }
   .features h4 {
     font-size: 20px;
     line-height: 1.3;
