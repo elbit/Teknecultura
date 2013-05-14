@@ -116,7 +116,7 @@
       <div class="module well">
         <h3 class="header-feature responsive_headline2" id="responsive_headline2">Estratègia de màrqueting</h3>
         <p>Acompanyem en l’elaboració de <span class="important">l’estratègia de màrqueting relacional i de continguts</span>, construcció del relat que ens connectarà amb la nostra comunitat.</p>
-        <h3><img src="img/icona-estrategia.png"></h3>
+        <h3><img src="img/icona-estrategia.0.1.png"></h3>
       </div>
 
   </div>
@@ -138,7 +138,7 @@
     <div class="module well ">
       <h3 class="header-feature responsive_headline2" id="responsive_headline2">Serveis a mida</h3>
       <p><span class="important">Cobrim les necessitats</span> de serveis de màrqueting de projectes culturals. <span class="important">Complementem </span>noves eines amb anàlisi i coneixement.<span class="important"> Sumem</span> creativitat i innovació.</p>
-      <h3><img src="img/icona-serveis.png"></h3>
+      <h3><img src="img/icona-serveis0.4.png"></h3>
     </div>
 
   </div>
